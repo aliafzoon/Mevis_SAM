@@ -1,0 +1,968 @@
+{
+    "7_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/v2/mevis_sam-epoch151-29334c5d6e2b41bf86e613599ffeaff3/7_t1-0-16.nrrd"
+        ],
+        "sensitivity": [
+            0.8707528314325185
+        ],
+        "specificity": [
+            0.9909986756575041
+        ],
+        "iou": [
+            0.7619173526763916
+        ],
+        "dice_score": [
+            0.8151177167892456
+        ],
+        "dice_ce": [
+            1.4346375465393066
+        ]
+    },
+    "7_t2_SPACE.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/v2/mevis_sam-epoch151-29334c5d6e2b41bf86e613599ffeaff3/7_t2_SPACE-0-102.nrrd",
+            "/data/sab_data/predicted_masks/v2/mevis_sam-epoch151-29334c5d6e2b41bf86e613599ffeaff3/7_t2_SPACE-103-119.nrrd"
+        ],
+        "sensitivity": [
+            0.8944606413956375,
+            0.6506622505783738
+        ],
+        "specificity": [
+            0.9948098867311445,
+            0.9995886872828937
+        ],
+        "iou": [
+            0.7826646566390991,
+            0.37005650997161865
+        ],
+        "dice_score": [
+            0.7402492761611938,
+            0.47490209341049194
+        ],
+        "dice_ce": [
+            1.5362035036087036,
+            1.6904613971710205
+        ]
+    },
+    "7_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/v2/mevis_sam-epoch151-29334c5d6e2b41bf86e613599ffeaff3/7_t2-0-16.nrrd"
+        ],
+        "sensitivity": [
+            0.8871028684642605
+        ],
+        "specificity": [
+            0.9881305242548614
+        ],
+        "iou": [
+            0.7415249943733215
+        ],
+        "dice_score": [
+            0.807908296585083
+        ],
+        "dice_ce": [
+            1.4422664642333984
+        ]
+    },
+    "24_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/v2/mevis_sam-epoch151-29334c5d6e2b41bf86e613599ffeaff3/24_t2-0-29.nrrd"
+        ],
+        "sensitivity": [
+            0.8258597665842375
+        ],
+        "specificity": [
+            0.9904080058122426
+        ],
+        "iou": [
+            0.6093183159828186
+        ],
+        "dice_score": [
+            0.6549460291862488
+        ],
+        "dice_ce": [
+            1.5758061408996582
+        ]
+    },
+    "28_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/v2/mevis_sam-epoch151-29334c5d6e2b41bf86e613599ffeaff3/28_t2-0-27.nrrd"
+        ],
+        "sensitivity": [
+            0.8883754403074055
+        ],
+        "specificity": [
+            0.9942621672236575
+        ],
+        "iou": [
+            0.7442406415939331
+        ],
+        "dice_score": [
+            0.8158227205276489
+        ],
+        "dice_ce": [
+            1.5618774890899658
+        ]
+    },
+    "39_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/v2/mevis_sam-epoch151-29334c5d6e2b41bf86e613599ffeaff3/39_t2-0-25.nrrd"
+        ],
+        "sensitivity": [
+            0.8298235628650533
+        ],
+        "specificity": [
+            0.9956228211270663
+        ],
+        "iou": [
+            0.6738560795783997
+        ],
+        "dice_score": [
+            0.807915210723877
+        ],
+        "dice_ce": [
+            1.6044983863830566
+        ]
+    },
+    "45_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/v2/mevis_sam-epoch151-29334c5d6e2b41bf86e613599ffeaff3/45_t2-0-1.nrrd",
+            "/data/sab_data/predicted_masks/v2/mevis_sam-epoch151-29334c5d6e2b41bf86e613599ffeaff3/45_t2-2-16.nrrd"
+        ],
+        "sensitivity": [
+            0.35251798476614393,
+            0.8904222741379155
+        ],
+        "specificity": [
+            0.9995943515288387,
+            0.984054064476921
+        ],
+        "iou": [
+            0.3127659559249878,
+            0.6850124001502991
+        ],
+        "dice_score": [
+            0.2784096896648407,
+            0.7671511769294739
+        ],
+        "dice_ce": [
+            1.6784648895263672,
+            1.470104694366455
+        ]
+    },
+    "50_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/v2/mevis_sam-epoch151-29334c5d6e2b41bf86e613599ffeaff3/50_t1-0-29.nrrd"
+        ],
+        "sensitivity": [
+            0.8219465508204751
+        ],
+        "specificity": [
+            0.9915020180478852
+        ],
+        "iou": [
+            0.6327467560768127
+        ],
+        "dice_score": [
+            0.7663769125938416
+        ],
+        "dice_ce": [
+            1.5644196271896362
+        ]
+    },
+    "50_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/v2/mevis_sam-epoch151-29334c5d6e2b41bf86e613599ffeaff3/50_t2-0-29.nrrd"
+        ],
+        "sensitivity": [
+            0.8396804789058444
+        ],
+        "specificity": [
+            0.9911369177152827
+        ],
+        "iou": [
+            0.6432616710662842
+        ],
+        "dice_score": [
+            0.7398375868797302
+        ],
+        "dice_ce": [
+            1.5615527629852295
+        ]
+    },
+    "50_t2_SPACE.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/v2/mevis_sam-epoch151-29334c5d6e2b41bf86e613599ffeaff3/50_t2_SPACE-0-44.nrrd",
+            "/data/sab_data/predicted_masks/v2/mevis_sam-epoch151-29334c5d6e2b41bf86e613599ffeaff3/50_t2_SPACE-45-119.nrrd"
+        ],
+        "sensitivity": [
+            0.7773771804953794,
+            0.8923812336930927
+        ],
+        "specificity": [
+            0.9980689066934878,
+            0.9899885193757745
+        ],
+        "iou": [
+            0.6448747515678406,
+            0.7469434142112732
+        ],
+        "dice_score": [
+            0.6741582155227661,
+            0.7752759456634521
+        ],
+        "dice_ce": [
+            1.645737648010254,
+            1.4718784093856812
+        ]
+    },
+    "56_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/v2/mevis_sam-epoch151-29334c5d6e2b41bf86e613599ffeaff3/56_t1-0-23.nrrd"
+        ],
+        "sensitivity": [
+            0.9147562982105412
+        ],
+        "specificity": [
+            0.9928443116343052
+        ],
+        "iou": [
+            0.7800800800323486
+        ],
+        "dice_score": [
+            0.7993062734603882
+        ],
+        "dice_ce": [
+            1.5174331665039062
+        ]
+    },
+    "57_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/v2/mevis_sam-epoch151-29334c5d6e2b41bf86e613599ffeaff3/57_t1-0-18.nrrd"
+        ],
+        "sensitivity": [
+            0.9161968791163697
+        ],
+        "specificity": [
+            0.987508673936956
+        ],
+        "iou": [
+            0.7692966461181641
+        ],
+        "dice_score": [
+            0.807106614112854
+        ],
+        "dice_ce": [
+            1.431736707687378
+        ]
+    },
+    "62_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/v2/mevis_sam-epoch151-29334c5d6e2b41bf86e613599ffeaff3/62_t2-0-1.nrrd",
+            "/data/sab_data/predicted_masks/v2/mevis_sam-epoch151-29334c5d6e2b41bf86e613599ffeaff3/62_t2-2-14.nrrd"
+        ],
+        "sensitivity": [
+            0.7518910729926005,
+            0.8954413106580452
+        ],
+        "specificity": [
+            0.9970861353643705,
+            0.9871579485461964
+        ],
+        "iou": [
+            0.47742554545402527,
+            0.7310366630554199
+        ],
+        "dice_score": [
+            0.648606538772583,
+            0.8172411918640137
+        ],
+        "dice_ce": [
+            1.6672576665878296,
+            1.4582397937774658
+        ]
+    },
+    "67_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/v2/mevis_sam-epoch151-29334c5d6e2b41bf86e613599ffeaff3/67_t2-0-22.nrrd"
+        ],
+        "sensitivity": [
+            0.6998791459178274
+        ],
+        "specificity": [
+            0.9940205060987661
+        ],
+        "iou": [
+            0.43765220046043396
+        ],
+        "dice_score": [
+            0.6154106855392456
+        ],
+        "dice_ce": [
+            1.6469650268554688
+        ]
+    },
+    "69_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/v2/mevis_sam-epoch151-29334c5d6e2b41bf86e613599ffeaff3/69_t1-0-16.nrrd"
+        ],
+        "sensitivity": [
+            0.8837984804394968
+        ],
+        "specificity": [
+            0.990129393883927
+        ],
+        "iou": [
+            0.7374278903007507
+        ],
+        "dice_score": [
+            0.7998306751251221
+        ],
+        "dice_ce": [
+            1.4791576862335205
+        ]
+    },
+    "69_t2_SPACE.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/v2/mevis_sam-epoch151-29334c5d6e2b41bf86e613599ffeaff3/69_t2_SPACE-0-66.nrrd",
+            "/data/sab_data/predicted_masks/v2/mevis_sam-epoch151-29334c5d6e2b41bf86e613599ffeaff3/69_t2_SPACE-67-119.nrrd"
+        ],
+        "sensitivity": [
+            0.8795710516527224,
+            0.8807470015548329
+        ],
+        "specificity": [
+            0.9962307169033172,
+            0.9953438853002948
+        ],
+        "iou": [
+            0.7630251049995422,
+            0.7521058917045593
+        ],
+        "dice_score": [
+            0.6820703148841858,
+            0.6707393527030945
+        ],
+        "dice_ce": [
+            1.5827383995056152,
+            1.5728721618652344
+        ]
+    },
+    "69_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/v2/mevis_sam-epoch151-29334c5d6e2b41bf86e613599ffeaff3/69_t2-0-16.nrrd"
+        ],
+        "sensitivity": [
+            0.890467799676188
+        ],
+        "specificity": [
+            0.9884503732560954
+        ],
+        "iou": [
+            0.7226347923278809
+        ],
+        "dice_score": [
+            0.7920161485671997
+        ],
+        "dice_ce": [
+            1.4799091815948486
+        ]
+    },
+    "71_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/v2/mevis_sam-epoch151-29334c5d6e2b41bf86e613599ffeaff3/71_t2-0-14.nrrd"
+        ],
+        "sensitivity": [
+            0.8869930589203753
+        ],
+        "specificity": [
+            0.9874452505034906
+        ],
+        "iou": [
+            0.6962534785270691
+        ],
+        "dice_score": [
+            0.635748028755188
+        ],
+        "dice_ce": [
+            1.5057671070098877
+        ]
+    },
+    "81_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/v2/mevis_sam-epoch151-29334c5d6e2b41bf86e613599ffeaff3/81_t2-0-19.nrrd"
+        ],
+        "sensitivity": [
+            0.8375020863435585
+        ],
+        "specificity": [
+            0.9939020209153558
+        ],
+        "iou": [
+            0.707061767578125
+        ],
+        "dice_score": [
+            0.7760266661643982
+        ],
+        "dice_ce": [
+            1.5435943603515625
+        ]
+    },
+    "83_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/v2/mevis_sam-epoch151-29334c5d6e2b41bf86e613599ffeaff3/83_t1-0-14.nrrd",
+            "/data/sab_data/predicted_masks/v2/mevis_sam-epoch151-29334c5d6e2b41bf86e613599ffeaff3/83_t1-15-31.nrrd"
+        ],
+        "sensitivity": [
+            0.774685631775257,
+            0.8777454107884707
+        ],
+        "specificity": [
+            0.9953504796646776,
+            0.9952017647830449
+        ],
+        "iou": [
+            0.5916246771812439,
+            0.7065019011497498
+        ],
+        "dice_score": [
+            0.7552158236503601,
+            0.8158475160598755
+        ],
+        "dice_ce": [
+            1.6239542961120605,
+            1.598672866821289
+        ]
+    },
+    "109_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/v2/mevis_sam-epoch151-29334c5d6e2b41bf86e613599ffeaff3/109_t1-0-32.nrrd"
+        ],
+        "sensitivity": [
+            0.870369607300046
+        ],
+        "specificity": [
+            0.9946787124844526
+        ],
+        "iou": [
+            0.7065966129302979
+        ],
+        "dice_score": [
+            0.775297999382019
+        ],
+        "dice_ce": [
+            1.5889201164245605
+        ]
+    },
+    "117_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/v2/mevis_sam-epoch151-29334c5d6e2b41bf86e613599ffeaff3/117_t1-0-23.nrrd"
+        ],
+        "sensitivity": [
+            0.847947598234761
+        ],
+        "specificity": [
+            0.9913389353681369
+        ],
+        "iou": [
+            0.6579473614692688
+        ],
+        "dice_score": [
+            0.5687909722328186
+        ],
+        "dice_ce": [
+            1.5618958473205566
+        ]
+    },
+    "118_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/v2/mevis_sam-epoch151-29334c5d6e2b41bf86e613599ffeaff3/118_t1-0-19.nrrd"
+        ],
+        "sensitivity": [
+            0.9135742441711918
+        ],
+        "specificity": [
+            0.9874706036781511
+        ],
+        "iou": [
+            0.7178528308868408
+        ],
+        "dice_score": [
+            0.707927405834198
+        ],
+        "dice_ce": [
+            1.4957090616226196
+        ]
+    },
+    "131_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/v2/mevis_sam-epoch151-29334c5d6e2b41bf86e613599ffeaff3/131_t1-0-23.nrrd"
+        ],
+        "sensitivity": [
+            0.8664579419564504
+        ],
+        "specificity": [
+            0.9915872872224397
+        ],
+        "iou": [
+            0.683448851108551
+        ],
+        "dice_score": [
+            0.7479925155639648
+        ],
+        "dice_ce": [
+            1.5571069717407227
+        ]
+    },
+    "140_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/v2/mevis_sam-epoch151-29334c5d6e2b41bf86e613599ffeaff3/140_t1-0-1.nrrd",
+            "/data/sab_data/predicted_masks/v2/mevis_sam-epoch151-29334c5d6e2b41bf86e613599ffeaff3/140_t1-2-26.nrrd"
+        ],
+        "sensitivity": [
+            0.0,
+            0.7873298774770938
+        ],
+        "specificity": [
+            0.9999999999923705,
+            0.9936845143302077
+        ],
+        "iou": [
+            1.0,
+            0.659087598323822
+        ],
+        "dice_score": [
+            1.0,
+            0.740426778793335
+        ],
+        "dice_ce": [
+            1.6931471824645996,
+            1.5531489849090576
+        ]
+    },
+    "140_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/v2/mevis_sam-epoch151-29334c5d6e2b41bf86e613599ffeaff3/140_t2-0-26.nrrd"
+        ],
+        "sensitivity": [
+            0.78391286619714
+        ],
+        "specificity": [
+            0.9933182573562364
+        ],
+        "iou": [
+            0.6410472393035889
+        ],
+        "dice_score": [
+            0.7305281162261963
+        ],
+        "dice_ce": [
+            1.5642380714416504
+        ]
+    },
+    "145_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/v2/mevis_sam-epoch151-29334c5d6e2b41bf86e613599ffeaff3/145_t1-0-25.nrrd"
+        ],
+        "sensitivity": [
+            0.821865138365159
+        ],
+        "specificity": [
+            0.9920093304328413
+        ],
+        "iou": [
+            0.6633583903312683
+        ],
+        "dice_score": [
+            0.6279433369636536
+        ],
+        "dice_ce": [
+            1.551578164100647
+        ]
+    },
+    "146_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/v2/mevis_sam-epoch151-29334c5d6e2b41bf86e613599ffeaff3/146_t1-0-26.nrrd"
+        ],
+        "sensitivity": [
+            0.8288909643693538
+        ],
+        "specificity": [
+            0.9941529708308406
+        ],
+        "iou": [
+            0.6674251556396484
+        ],
+        "dice_score": [
+            0.6817518472671509
+        ],
+        "dice_ce": [
+            1.5810272693634033
+        ]
+    },
+    "166_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/v2/mevis_sam-epoch151-29334c5d6e2b41bf86e613599ffeaff3/166_t1-0-14.nrrd",
+            "/data/sab_data/predicted_masks/v2/mevis_sam-epoch151-29334c5d6e2b41bf86e613599ffeaff3/166_t1-15-16.nrrd"
+        ],
+        "sensitivity": [
+            0.8789172783582913,
+            0.8446666661035555
+        ],
+        "specificity": [
+            0.9858026183968079,
+            0.981207359607159
+        ],
+        "iou": [
+            0.7133650183677673,
+            0.321982204914093
+        ],
+        "dice_score": [
+            0.8077527284622192,
+            0.49982190132141113
+        ],
+        "dice_ce": [
+            1.440119743347168,
+            1.6432578563690186
+        ]
+    },
+    "186_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/v2/mevis_sam-epoch151-29334c5d6e2b41bf86e613599ffeaff3/186_t2-0-40.nrrd"
+        ],
+        "sensitivity": [
+            0.6474133600392499
+        ],
+        "specificity": [
+            0.9972650365130887
+        ],
+        "iou": [
+            0.3371918201446533
+        ],
+        "dice_score": [
+            0.545922040939331
+        ],
+        "dice_ce": [
+            1.6792925596237183
+        ]
+    },
+    "191_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/v2/mevis_sam-epoch151-29334c5d6e2b41bf86e613599ffeaff3/191_t1-0-17.nrrd"
+        ],
+        "sensitivity": [
+            0.8776535468596046
+        ],
+        "specificity": [
+            0.9869876630860149
+        ],
+        "iou": [
+            0.6873345375061035
+        ],
+        "dice_score": [
+            0.7342411875724792
+        ],
+        "dice_ce": [
+            1.49436354637146
+        ]
+    },
+    "192_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/v2/mevis_sam-epoch151-29334c5d6e2b41bf86e613599ffeaff3/192_t1-0-23.nrrd"
+        ],
+        "sensitivity": [
+            0.9114090121455366
+        ],
+        "specificity": [
+            0.9911960465458549
+        ],
+        "iou": [
+            0.7445484399795532
+        ],
+        "dice_score": [
+            0.7922181487083435
+        ],
+        "dice_ce": [
+            1.5253770351409912
+        ]
+    },
+    "193_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/v2/mevis_sam-epoch151-29334c5d6e2b41bf86e613599ffeaff3/193_t2-0-32.nrrd"
+        ],
+        "sensitivity": [
+            0.8260193753316216
+        ],
+        "specificity": [
+            0.9979236767357192
+        ],
+        "iou": [
+            0.7119356989860535
+        ],
+        "dice_score": [
+            0.79403156042099
+        ],
+        "dice_ce": [
+            1.6299338340759277
+        ]
+    },
+    "204_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/v2/mevis_sam-epoch151-29334c5d6e2b41bf86e613599ffeaff3/204_t1-0-1.nrrd",
+            "/data/sab_data/predicted_masks/v2/mevis_sam-epoch151-29334c5d6e2b41bf86e613599ffeaff3/204_t1-2-23.nrrd"
+        ],
+        "sensitivity": [
+            0.5548387060978148,
+            0.8288092118464541
+        ],
+        "specificity": [
+            0.9959745487522936,
+            0.9917180803408244
+        ],
+        "iou": [
+            0.12609970569610596,
+            0.6837994456291199
+        ],
+        "dice_score": [
+            0.2534558176994324,
+            0.7593321800231934
+        ],
+        "dice_ce": [
+            1.6895114183425903,
+            1.521740198135376
+        ]
+    },
+    "204_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/v2/mevis_sam-epoch151-29334c5d6e2b41bf86e613599ffeaff3/204_t2-0-23.nrrd"
+        ],
+        "sensitivity": [
+            0.852942258844203
+        ],
+        "specificity": [
+            0.9924399974178821
+        ],
+        "iou": [
+            0.7041898369789124
+        ],
+        "dice_score": [
+            0.7653111815452576
+        ],
+        "dice_ce": [
+            1.5341355800628662
+        ]
+    },
+    "208_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/v2/mevis_sam-epoch151-29334c5d6e2b41bf86e613599ffeaff3/208_t2-0-16.nrrd"
+        ],
+        "sensitivity": [
+            0.9056449253903
+        ],
+        "specificity": [
+            0.9881871098088675
+        ],
+        "iou": [
+            0.659552276134491
+        ],
+        "dice_score": [
+            0.576680600643158
+        ],
+        "dice_ce": [
+            1.5552995204925537
+        ]
+    },
+    "222_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/v2/mevis_sam-epoch151-29334c5d6e2b41bf86e613599ffeaff3/222_t2-0-14.nrrd"
+        ],
+        "sensitivity": [
+            0.923137413477956
+        ],
+        "specificity": [
+            0.9900163233635187
+        ],
+        "iou": [
+            0.7625932693481445
+        ],
+        "dice_score": [
+            0.8142205476760864
+        ],
+        "dice_ce": [
+            1.4917739629745483
+        ]
+    },
+    "224_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/v2/mevis_sam-epoch151-29334c5d6e2b41bf86e613599ffeaff3/224_t1-0-15.nrrd"
+        ],
+        "sensitivity": [
+            0.8795614152417849
+        ],
+        "specificity": [
+            0.9878000676481604
+        ],
+        "iou": [
+            0.7135871052742004
+        ],
+        "dice_score": [
+            0.6530241370201111
+        ],
+        "dice_ce": [
+            1.479827642440796
+        ]
+    },
+    "226_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/v2/mevis_sam-epoch151-29334c5d6e2b41bf86e613599ffeaff3/226_t1-0-14.nrrd"
+        ],
+        "sensitivity": [
+            0.8629958751802731
+        ],
+        "specificity": [
+            0.9936277413955039
+        ],
+        "iou": [
+            0.7394738793373108
+        ],
+        "dice_score": [
+            0.6813824772834778
+        ],
+        "dice_ce": [
+            1.5310620069503784
+        ]
+    },
+    "226_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/v2/mevis_sam-epoch151-29334c5d6e2b41bf86e613599ffeaff3/226_t2-0-10.nrrd",
+            "/data/sab_data/predicted_masks/v2/mevis_sam-epoch151-29334c5d6e2b41bf86e613599ffeaff3/226_t2-11-14.nrrd"
+        ],
+        "sensitivity": [
+            0.8772780147100959,
+            0.5715390560158243
+        ],
+        "specificity": [
+            0.9919318331152733,
+            0.9983477157419433
+        ],
+        "iou": [
+            0.760851263999939,
+            0.428654283285141
+        ],
+        "dice_score": [
+            0.7771044969558716,
+            0.5347515344619751
+        ],
+        "dice_ce": [
+            1.4744105339050293,
+            1.6695057153701782
+        ]
+    },
+    "236_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/v2/mevis_sam-epoch151-29334c5d6e2b41bf86e613599ffeaff3/236_t2-0-26.nrrd"
+        ],
+        "sensitivity": [
+            0.8630155419352921
+        ],
+        "specificity": [
+            0.9924714330820736
+        ],
+        "iou": [
+            0.7093991041183472
+        ],
+        "dice_score": [
+            0.7857979536056519
+        ],
+        "dice_ce": [
+            1.544443130493164
+        ]
+    },
+    "241_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/v2/mevis_sam-epoch151-29334c5d6e2b41bf86e613599ffeaff3/241_t1-0-18.nrrd"
+        ],
+        "sensitivity": [
+            0.8967302523989998
+        ],
+        "specificity": [
+            0.981969184349134
+        ],
+        "iou": [
+            0.7018073797225952
+        ],
+        "dice_score": [
+            0.7844946980476379
+        ],
+        "dice_ce": [
+            1.4321045875549316
+        ]
+    },
+    "241_t2_SPACE.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/v2/mevis_sam-epoch151-29334c5d6e2b41bf86e613599ffeaff3/241_t2_SPACE-0-69.nrrd",
+            "/data/sab_data/predicted_masks/v2/mevis_sam-epoch151-29334c5d6e2b41bf86e613599ffeaff3/241_t2_SPACE-70-119.nrrd"
+        ],
+        "sensitivity": [
+            0.9096758438311071,
+            0.8793486733754912
+        ],
+        "specificity": [
+            0.987190264309686,
+            0.987306836135463
+        ],
+        "iou": [
+            0.7002018690109253,
+            0.633727490901947
+        ],
+        "dice_score": [
+            0.7011858820915222,
+            0.6456200480461121
+        ],
+        "dice_ce": [
+            1.519431710243225,
+            1.5531840324401855
+        ]
+    },
+    "241_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/v2/mevis_sam-epoch151-29334c5d6e2b41bf86e613599ffeaff3/241_t2-0-18.nrrd"
+        ],
+        "sensitivity": [
+            0.8969066962595638
+        ],
+        "specificity": [
+            0.9792437877162855
+        ],
+        "iou": [
+            0.687130331993103
+        ],
+        "dice_score": [
+            0.770491898059845
+        ],
+        "dice_ce": [
+            1.424384355545044
+        ]
+    },
+    "257_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/v2/mevis_sam-epoch151-29334c5d6e2b41bf86e613599ffeaff3/257_t2-0-27.nrrd"
+        ],
+        "sensitivity": [
+            0.8743582934839272
+        ],
+        "specificity": [
+            0.9925243712197274
+        ],
+        "iou": [
+            0.6746227145195007
+        ],
+        "dice_score": [
+            0.728457510471344
+        ],
+        "dice_ce": [
+            1.579923152923584
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+services:
+  sab_dev:
+    image: sab_dev_image:torch2.4
+    container_name: sab_dev_2.4
+    hostname: sabhost
+    build:
+        dockerfile: Dockerfile
+    tty: true
+    ports:
+        - 8888:8888
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              device_ids:
+                # - GPU-c3316689-3235-53a1-8d30-24494d5868b9
+                - "MIG-4f53211e-ceab-5aa7-b0ba-6ef87e62c8ed"
+                # - "MIG-3b133eb8-ed94-51f8-937f-cbc3e3f3ff2a"
+
+              capabilities: [gpu]
+    environment:
+        CUDA_VISIBLE_DEVICES: MIG-4f53211e-ceab-5aa7-b0ba-6ef87e62c8ed 
+        #MIG-3b133eb8-ed94-51f8-937f-cbc3e3f3ff2a
+        #GPU-c3316689-3235-53a1-8d30-24494d5868b9
+    volumes:
+            - /home/ubuntu/Thesis_code:/notebooks
+            - /data/sab_data/:/data/sab_data/
+    networks:
+      - sab_dev
+
+networks:
+  sab_dev:

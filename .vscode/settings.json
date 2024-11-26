@@ -1,0 +1,13 @@
+{
+    "notebook.stickyScroll.enabled": true,
+    "python.analysis.typeCheckingMode": "off",
+    "cSpell.words": [
+        "arange",
+        "mevis",
+        "moveaxis",
+        "multimask",
+        "quantile",
+        "sitk",
+        "tqdm"
+    ]
+}

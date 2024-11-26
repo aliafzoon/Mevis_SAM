@@ -1,0 +1,7142 @@
+{
+    "1_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/1_t1-8-37.nrrd"
+        ],
+        "sensitivity": [
+            0.5978141300876477
+        ],
+        "specificity": [
+            0.9901440945731255
+        ],
+        "iou": [
+            0.44815385341644287
+        ],
+        "dice_score": [
+            0.5158187747001648
+        ],
+        "dice_ce": [
+            1.5719269514083862
+        ]
+    },
+    "1_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/1_t2-8-37.nrrd"
+        ],
+        "sensitivity": [
+            0.7495609981515712
+        ],
+        "specificity": [
+            0.9907790721863948
+        ],
+        "iou": [
+            0.5317324995994568
+        ],
+        "dice_score": [
+            0.6043513417243958
+        ],
+        "dice_ce": [
+            1.5912432670593262
+        ]
+    },
+    "2_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/2_t1-0-16.nrrd"
+        ],
+        "sensitivity": [
+            0.8368427533554981
+        ],
+        "specificity": [
+            0.9823620378996751
+        ],
+        "iou": [
+            0.6301344633102417
+        ],
+        "dice_score": [
+            0.6206169724464417
+        ],
+        "dice_ce": [
+            1.4859099388122559
+        ]
+    },
+    "2_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/2_t2-0-16.nrrd"
+        ],
+        "sensitivity": [
+            0.7605104168523106
+        ],
+        "specificity": [
+            0.9813109817476543
+        ],
+        "iou": [
+            0.5623451471328735
+        ],
+        "dice_score": [
+            0.560189962387085
+        ],
+        "dice_ce": [
+            1.4949941635131836
+        ]
+    },
+    "3_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/3_t1-0-17.nrrd"
+        ],
+        "sensitivity": [
+            0.872684052296721
+        ],
+        "specificity": [
+            0.9827216273920398
+        ],
+        "iou": [
+            0.5986570715904236
+        ],
+        "dice_score": [
+            0.528728187084198
+        ],
+        "dice_ce": [
+            1.5369784832000732
+        ]
+    },
+    "3_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/3_t2-0-16.nrrd"
+        ],
+        "sensitivity": [
+            0.6973018753781004
+        ],
+        "specificity": [
+            0.9786360200114281
+        ],
+        "iou": [
+            0.44853994250297546
+        ],
+        "dice_score": [
+            0.43678703904151917
+        ],
+        "dice_ce": [
+            1.5466655492782593
+        ]
+    },
+    "4_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/4_t1-1-25.nrrd"
+        ],
+        "sensitivity": [
+            0.7678942075193118
+        ],
+        "specificity": [
+            0.9850446104618616
+        ],
+        "iou": [
+            0.5087542533874512
+        ],
+        "dice_score": [
+            0.5107765197753906
+        ],
+        "dice_ce": [
+            1.5713801383972168
+        ]
+    },
+    "5_t2_SPACE.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/5_t2_SPACE-5-116.nrrd"
+        ],
+        "sensitivity": [
+            0.8959617939083199
+        ],
+        "specificity": [
+            0.9898031988839378
+        ],
+        "iou": [
+            0.6508303284645081
+        ],
+        "dice_score": [
+            0.524770975112915
+        ],
+        "dice_ce": [
+            1.5747621059417725
+        ]
+    },
+    "5_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/5_t2-0-16.nrrd"
+        ],
+        "sensitivity": [
+            0.7825428859737639
+        ],
+        "specificity": [
+            0.972903300157942
+        ],
+        "iou": [
+            0.5158883929252625
+        ],
+        "dice_score": [
+            0.5923198461532593
+        ],
+        "dice_ce": [
+            1.4902381896972656
+        ]
+    },
+    "6_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/6_t2-0-15.nrrd"
+        ],
+        "sensitivity": [
+            0.7864161465940778
+        ],
+        "specificity": [
+            0.9863488902766159
+        ],
+        "iou": [
+            0.5380789041519165
+        ],
+        "dice_score": [
+            0.46474432945251465
+        ],
+        "dice_ce": [
+            1.570530652999878
+        ]
+    },
+    "8_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/8_t1-0-14.nrrd"
+        ],
+        "sensitivity": [
+            0.8305224413558204
+        ],
+        "specificity": [
+            0.9820289573372603
+        ],
+        "iou": [
+            0.5660264492034912
+        ],
+        "dice_score": [
+            0.5292525291442871
+        ],
+        "dice_ce": [
+            1.5368322134017944
+        ]
+    },
+    "9_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/9_t1-1-16.nrrd"
+        ],
+        "sensitivity": [
+            0.793512048672919
+        ],
+        "specificity": [
+            0.9890972434484048
+        ],
+        "iou": [
+            0.6137769222259521
+        ],
+        "dice_score": [
+            0.5559113621711731
+        ],
+        "dice_ce": [
+            1.5371946096420288
+        ]
+    },
+    "9_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/9_t2-1-16.nrrd"
+        ],
+        "sensitivity": [
+            0.34373907979033197
+        ],
+        "specificity": [
+            0.9916242373569859
+        ],
+        "iou": [
+            0.27556905150413513
+        ],
+        "dice_score": [
+            0.32446372509002686
+        ],
+        "dice_ce": [
+            1.5708152055740356
+        ]
+    },
+    "10_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/10_t1-0-14.nrrd"
+        ],
+        "sensitivity": [
+            0.7076210583668188
+        ],
+        "specificity": [
+            0.9777314488244179
+        ],
+        "iou": [
+            0.5239866375923157
+        ],
+        "dice_score": [
+            0.5360936522483826
+        ],
+        "dice_ce": [
+            1.469289779663086
+        ]
+    },
+    "10_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/10_t2-0-14.nrrd"
+        ],
+        "sensitivity": [
+            0.7313105185235608
+        ],
+        "specificity": [
+            0.9764042597619544
+        ],
+        "iou": [
+            0.5333614945411682
+        ],
+        "dice_score": [
+            0.5654814839363098
+        ],
+        "dice_ce": [
+            1.467116117477417
+        ]
+    },
+    "11_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/11_t1-1-20.nrrd"
+        ],
+        "sensitivity": [
+            0.7643523563061836
+        ],
+        "specificity": [
+            0.9844630602308017
+        ],
+        "iou": [
+            0.5741929411888123
+        ],
+        "dice_score": [
+            0.6045039296150208
+        ],
+        "dice_ce": [
+            1.5047714710235596
+        ]
+    },
+    "11_t2_SPACE.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/11_t2_SPACE-6-109.nrrd"
+        ],
+        "sensitivity": [
+            0.7674427424622321
+        ],
+        "specificity": [
+            0.9815393895117064
+        ],
+        "iou": [
+            0.5076502561569214
+        ],
+        "dice_score": [
+            0.40044304728507996
+        ],
+        "dice_ce": [
+            1.5551234483718872
+        ]
+    },
+    "11_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/11_t2-0-18.nrrd"
+        ],
+        "sensitivity": [
+            0.7143826322930801
+        ],
+        "specificity": [
+            0.9786812206112522
+        ],
+        "iou": [
+            0.507563054561615
+        ],
+        "dice_score": [
+            0.524859607219696
+        ],
+        "dice_ce": [
+            1.4956119060516357
+        ]
+    },
+    "12_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/12_t2-0-14.nrrd"
+        ],
+        "sensitivity": [
+            0.4914740142227207
+        ],
+        "specificity": [
+            0.9787837979586929
+        ],
+        "iou": [
+            0.3253961503505707
+        ],
+        "dice_score": [
+            0.4150207042694092
+        ],
+        "dice_ce": [
+            1.5486408472061157
+        ]
+    },
+    "13_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/13_t1-1-18.nrrd"
+        ],
+        "sensitivity": [
+            0.8263227953410982
+        ],
+        "specificity": [
+            0.9842110024547711
+        ],
+        "iou": [
+            0.5151553153991699
+        ],
+        "dice_score": [
+            0.4523344039916992
+        ],
+        "dice_ce": [
+            1.581120252609253
+        ]
+    },
+    "15_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/15_t1-3-28.nrrd"
+        ],
+        "sensitivity": [
+            0.7290061565523307
+        ],
+        "specificity": [
+            0.9896515152690731
+        ],
+        "iou": [
+            0.45280131697654724
+        ],
+        "dice_score": [
+            0.45246854424476624
+        ],
+        "dice_ce": [
+            1.6179373264312744
+        ]
+    },
+    "15_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/15_t2-3-28.nrrd"
+        ],
+        "sensitivity": [
+            0.5392788038698328
+        ],
+        "specificity": [
+            0.9892235861179067
+        ],
+        "iou": [
+            0.3297906816005707
+        ],
+        "dice_score": [
+            0.37268757820129395
+        ],
+        "dice_ce": [
+            1.6240763664245605
+        ]
+    },
+    "16_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/16_t2-0-23.nrrd"
+        ],
+        "sensitivity": [
+            0.8826386919950855
+        ],
+        "specificity": [
+            0.9708913200948184
+        ],
+        "iou": [
+            0.4806637167930603
+        ],
+        "dice_score": [
+            0.45184391736984253
+        ],
+        "dice_ce": [
+            1.5599658489227295
+        ]
+    },
+    "17_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/17_t1-1-24.nrrd"
+        ],
+        "sensitivity": [
+            0.890816228196974
+        ],
+        "specificity": [
+            0.980347614524488
+        ],
+        "iou": [
+            0.6336342692375183
+        ],
+        "dice_score": [
+            0.6012406349182129
+        ],
+        "dice_ce": [
+            1.5009112358093262
+        ]
+    },
+    "17_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/17_t2-1-24.nrrd"
+        ],
+        "sensitivity": [
+            0.8607222015721582
+        ],
+        "specificity": [
+            0.9782305987435218
+        ],
+        "iou": [
+            0.5937624573707581
+        ],
+        "dice_score": [
+            0.5720095038414001
+        ],
+        "dice_ce": [
+            1.5047358274459839
+        ]
+    },
+    "18_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/18_t1-0-24.nrrd"
+        ],
+        "sensitivity": [
+            0.8993412337546096
+        ],
+        "specificity": [
+            0.9842904246217152
+        ],
+        "iou": [
+            0.6223629117012024
+        ],
+        "dice_score": [
+            0.6755821108818054
+        ],
+        "dice_ce": [
+            1.5365360975265503
+        ]
+    },
+    "18_t2_SPACE.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/18_t2_SPACE-15-116.nrrd"
+        ],
+        "sensitivity": [
+            0.889600752711118
+        ],
+        "specificity": [
+            0.9853430216081417
+        ],
+        "iou": [
+            0.6090959906578064
+        ],
+        "dice_score": [
+            0.6239257454872131
+        ],
+        "dice_ce": [
+            1.5522234439849854
+        ]
+    },
+    "18_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/18_t2-0-24.nrrd"
+        ],
+        "sensitivity": [
+            0.9037807454083276
+        ],
+        "specificity": [
+            0.9830013560495862
+        ],
+        "iou": [
+            0.6100189685821533
+        ],
+        "dice_score": [
+            0.659099817276001
+        ],
+        "dice_ce": [
+            1.537433385848999
+        ]
+    },
+    "19_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/19_t1-4-29.nrrd"
+        ],
+        "sensitivity": [
+            0.7858686446865053
+        ],
+        "specificity": [
+            0.9790063896786817
+        ],
+        "iou": [
+            0.5234487652778625
+        ],
+        "dice_score": [
+            0.48223331570625305
+        ],
+        "dice_ce": [
+            1.533804178237915
+        ]
+    },
+    "19_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/19_t2-4-29.nrrd"
+        ],
+        "sensitivity": [
+            0.7218993662938411
+        ],
+        "specificity": [
+            0.9782842642697729
+        ],
+        "iou": [
+            0.4753800332546234
+        ],
+        "dice_score": [
+            0.4417307674884796
+        ],
+        "dice_ce": [
+            1.5388514995574951
+        ]
+    },
+    "20_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/20_t2-3-18.nrrd"
+        ],
+        "sensitivity": [
+            0.7597724922440537
+        ],
+        "specificity": [
+            0.9854688007477997
+        ],
+        "iou": [
+            0.5508012175559998
+        ],
+        "dice_score": [
+            0.5587504506111145
+        ],
+        "dice_ce": [
+            1.534554362297058
+        ]
+    },
+    "21_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/21_t2-1-16.nrrd"
+        ],
+        "sensitivity": [
+            0.7978121620497463
+        ],
+        "specificity": [
+            0.9717818833134098
+        ],
+        "iou": [
+            0.5026730895042419
+        ],
+        "dice_score": [
+            0.5353255271911621
+        ],
+        "dice_ce": [
+            1.5127532482147217
+        ]
+    },
+    "23_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/23_t1-1-15.nrrd"
+        ],
+        "sensitivity": [
+            0.7674971369303571
+        ],
+        "specificity": [
+            0.9824800562790296
+        ],
+        "iou": [
+            0.5665725469589233
+        ],
+        "dice_score": [
+            0.6127479672431946
+        ],
+        "dice_ce": [
+            1.4979218244552612
+        ]
+    },
+    "24_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/24_t1-4-27.nrrd"
+        ],
+        "sensitivity": [
+            0.696270635366066
+        ],
+        "specificity": [
+            0.9859820548740363
+        ],
+        "iou": [
+            0.49286937713623047
+        ],
+        "dice_score": [
+            0.5015169978141785
+        ],
+        "dice_ce": [
+            1.5542854070663452
+        ]
+    },
+    "25_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/25_t1-0-23.nrrd"
+        ],
+        "sensitivity": [
+            0.7907007851897431
+        ],
+        "specificity": [
+            0.9838422540476135
+        ],
+        "iou": [
+            0.5973020792007446
+        ],
+        "dice_score": [
+            0.572794497013092
+        ],
+        "dice_ce": [
+            1.5050292015075684
+        ]
+    },
+    "25_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/25_t2-0-23.nrrd"
+        ],
+        "sensitivity": [
+            0.7749702376971335
+        ],
+        "specificity": [
+            0.9834484231746106
+        ],
+        "iou": [
+            0.5819496512413025
+        ],
+        "dice_score": [
+            0.5465734004974365
+        ],
+        "dice_ce": [
+            1.5069994926452637
+        ]
+    },
+    "28_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/28_t1-1-25.nrrd"
+        ],
+        "sensitivity": [
+            0.8229044354380516
+        ],
+        "specificity": [
+            0.9869430965478009
+        ],
+        "iou": [
+            0.5911298394203186
+        ],
+        "dice_score": [
+            0.5877538919448853
+        ],
+        "dice_ce": [
+            1.5539462566375732
+        ]
+    },
+    "29_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/29_t1-1-24.nrrd"
+        ],
+        "sensitivity": [
+            0.7928158942606375
+        ],
+        "specificity": [
+            0.9864521997223419
+        ],
+        "iou": [
+            0.5541485548019409
+        ],
+        "dice_score": [
+            0.5022709369659424
+        ],
+        "dice_ce": [
+            1.5603573322296143
+        ]
+    },
+    "30_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/30_t1-0-23.nrrd"
+        ],
+        "sensitivity": [
+            0.8403257870219268
+        ],
+        "specificity": [
+            0.9833811371688881
+        ],
+        "iou": [
+            0.6128536462783813
+        ],
+        "dice_score": [
+            0.6642899513244629
+        ],
+        "dice_ce": [
+            1.5145502090454102
+        ]
+    },
+    "30_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/30_t2-0-23.nrrd"
+        ],
+        "sensitivity": [
+            0.8268403406224966
+        ],
+        "specificity": [
+            0.9814953323174741
+        ],
+        "iou": [
+            0.5850478410720825
+        ],
+        "dice_score": [
+            0.6387807130813599
+        ],
+        "dice_ce": [
+            1.5168828964233398
+        ]
+    },
+    "31_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/31_t1-0-14.nrrd"
+        ],
+        "sensitivity": [
+            0.8197798889409246
+        ],
+        "specificity": [
+            0.9788995853786399
+        ],
+        "iou": [
+            0.6183122992515564
+        ],
+        "dice_score": [
+            0.5565834045410156
+        ],
+        "dice_ce": [
+            1.4567888975143433
+        ]
+    },
+    "32_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/32_t1-1-24.nrrd"
+        ],
+        "sensitivity": [
+            0.7838840554555119
+        ],
+        "specificity": [
+            0.9880872926099689
+        ],
+        "iou": [
+            0.5620809197425842
+        ],
+        "dice_score": [
+            0.6543519496917725
+        ],
+        "dice_ce": [
+            1.565382719039917
+        ]
+    },
+    "32_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/32_t2-1-24.nrrd"
+        ],
+        "sensitivity": [
+            0.5408431147078605
+        ],
+        "specificity": [
+            0.9840971775109987
+        ],
+        "iou": [
+            0.3542368412017822
+        ],
+        "dice_score": [
+            0.4977933168411255
+        ],
+        "dice_ce": [
+            1.5800251960754395
+        ]
+    },
+    "33_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/33_t1-2-21.nrrd"
+        ],
+        "sensitivity": [
+            0.8645887485025879
+        ],
+        "specificity": [
+            0.9849314278901236
+        ],
+        "iou": [
+            0.6040393710136414
+        ],
+        "dice_score": [
+            0.5464630126953125
+        ],
+        "dice_ce": [
+            1.5466198921203613
+        ]
+    },
+    "33_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/33_t2-2-21.nrrd"
+        ],
+        "sensitivity": [
+            0.8013403209349782
+        ],
+        "specificity": [
+            0.986812833110865
+        ],
+        "iou": [
+            0.577489972114563
+        ],
+        "dice_score": [
+            0.5031844973564148
+        ],
+        "dice_ce": [
+            1.552091121673584
+        ]
+    },
+    "34_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/34_t1-0-16.nrrd"
+        ],
+        "sensitivity": [
+            0.9309890173577907
+        ],
+        "specificity": [
+            0.9813528735214249
+        ],
+        "iou": [
+            0.7259959578514099
+        ],
+        "dice_score": [
+            0.7717914581298828
+        ],
+        "dice_ce": [
+            1.428083896636963
+        ]
+    },
+    "34_t2_SPACE.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/34_t2_SPACE-10-117.nrrd"
+        ],
+        "sensitivity": [
+            0.9138101071739516
+        ],
+        "specificity": [
+            0.9886323737113742
+        ],
+        "iou": [
+            0.7036928534507751
+        ],
+        "dice_score": [
+            0.5626391172409058
+        ],
+        "dice_ce": [
+            1.5362498760223389
+        ]
+    },
+    "34_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/34_t2-0-16.nrrd"
+        ],
+        "sensitivity": [
+            0.8921508747641733
+        ],
+        "specificity": [
+            0.9796229461715532
+        ],
+        "iou": [
+            0.6927949786186218
+        ],
+        "dice_score": [
+            0.7504777312278748
+        ],
+        "dice_ce": [
+            1.419173240661621
+        ]
+    },
+    "35_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/35_t1-0-16.nrrd"
+        ],
+        "sensitivity": [
+            0.7805001262945188
+        ],
+        "specificity": [
+            0.9831087884163591
+        ],
+        "iou": [
+            0.6258087158203125
+        ],
+        "dice_score": [
+            0.7083232402801514
+        ],
+        "dice_ce": [
+            1.4304625988006592
+        ]
+    },
+    "35_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/35_t2-0-16.nrrd"
+        ],
+        "sensitivity": [
+            0.8469443857052231
+        ],
+        "specificity": [
+            0.9886534851581937
+        ],
+        "iou": [
+            0.555999755859375
+        ],
+        "dice_score": [
+            0.5246025919914246
+        ],
+        "dice_ce": [
+            1.5922906398773193
+        ]
+    },
+    "35_t2_SPACE.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/35_t2_SPACE-0-105.nrrd"
+        ],
+        "sensitivity": [
+            0.8396830887937972
+        ],
+        "specificity": [
+            0.9814587133360096
+        ],
+        "iou": [
+            0.5728552341461182
+        ],
+        "dice_score": [
+            0.46427100896835327
+        ],
+        "dice_ce": [
+            1.5374611616134644
+        ]
+    },
+    "36_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/36_t2-0-23.nrrd"
+        ],
+        "sensitivity": [
+            0.8330820535098254
+        ],
+        "specificity": [
+            0.9797102632279717
+        ],
+        "iou": [
+            0.6004365086555481
+        ],
+        "dice_score": [
+            0.5731815695762634
+        ],
+        "dice_ce": [
+            1.4952716827392578
+        ]
+    },
+    "37_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/37_t1-2-25.nrrd"
+        ],
+        "sensitivity": [
+            0.8381230414869968
+        ],
+        "specificity": [
+            0.9891027640673202
+        ],
+        "iou": [
+            0.5787497758865356
+        ],
+        "dice_score": [
+            0.4764248728752136
+        ],
+        "dice_ce": [
+            1.5848820209503174
+        ]
+    },
+    "37_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/37_t2-2-25.nrrd"
+        ],
+        "sensitivity": [
+            0.75884511342636
+        ],
+        "specificity": [
+            0.9866573495614209
+        ],
+        "iou": [
+            0.4899783730506897
+        ],
+        "dice_score": [
+            0.4052088260650635
+        ],
+        "dice_ce": [
+            1.5904231071472168
+        ]
+    },
+    "38_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/38_t1-2-26.nrrd"
+        ],
+        "sensitivity": [
+            0.8010906738145854
+        ],
+        "specificity": [
+            0.989973492209873
+        ],
+        "iou": [
+            0.5354517102241516
+        ],
+        "dice_score": [
+            0.5576367378234863
+        ],
+        "dice_ce": [
+            1.6003923416137695
+        ]
+    },
+    "38_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/38_t2-2-26.nrrd"
+        ],
+        "sensitivity": [
+            0.8272175493730166
+        ],
+        "specificity": [
+            0.9880444075536927
+        ],
+        "iou": [
+            0.5197553038597107
+        ],
+        "dice_score": [
+            0.5378146767616272
+        ],
+        "dice_ce": [
+            1.600968837738037
+        ]
+    },
+    "39_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/39_t1-1-24.nrrd"
+        ],
+        "sensitivity": [
+            0.713400366786821
+        ],
+        "specificity": [
+            0.9907613230403092
+        ],
+        "iou": [
+            0.49192193150520325
+        ],
+        "dice_score": [
+            0.48255884647369385
+        ],
+        "dice_ce": [
+            1.6040325164794922
+        ]
+    },
+    "40_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/40_t1-1-24.nrrd"
+        ],
+        "sensitivity": [
+            0.8451770358647778
+        ],
+        "specificity": [
+            0.9822456602366324
+        ],
+        "iou": [
+            0.5579864382743835
+        ],
+        "dice_score": [
+            0.562442421913147
+        ],
+        "dice_ce": [
+            1.5522656440734863
+        ]
+    },
+    "40_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/40_t2-1-24.nrrd"
+        ],
+        "sensitivity": [
+            0.710984422369249
+        ],
+        "specificity": [
+            0.9829204751065004
+        ],
+        "iou": [
+            0.47553402185440063
+        ],
+        "dice_score": [
+            0.5135214328765869
+        ],
+        "dice_ce": [
+            1.5591561794281006
+        ]
+    },
+    "41_t2_SPACE.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/41_t2_SPACE-15-99.nrrd"
+        ],
+        "sensitivity": [
+            0.7907957406789431
+        ],
+        "specificity": [
+            0.9825715960481791
+        ],
+        "iou": [
+            0.4600600004196167
+        ],
+        "dice_score": [
+            0.36210131645202637
+        ],
+        "dice_ce": [
+            1.5945020914077759
+        ]
+    },
+    "42_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/42_t2-1-16.nrrd"
+        ],
+        "sensitivity": [
+            0.4964876158178405
+        ],
+        "specificity": [
+            0.9852119541135346
+        ],
+        "iou": [
+            0.34129130840301514
+        ],
+        "dice_score": [
+            0.41400858759880066
+        ],
+        "dice_ce": [
+            1.5711605548858643
+        ]
+    },
+    "44_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/44_t1-0-23.nrrd"
+        ],
+        "sensitivity": [
+            0.8882095222249952
+        ],
+        "specificity": [
+            0.9840278582937195
+        ],
+        "iou": [
+            0.6666562557220459
+        ],
+        "dice_score": [
+            0.6172523498535156
+        ],
+        "dice_ce": [
+            1.5011281967163086
+        ]
+    },
+    "44_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/44_t2-0-23.nrrd"
+        ],
+        "sensitivity": [
+            0.8646535230014142
+        ],
+        "specificity": [
+            0.9825958961524264
+        ],
+        "iou": [
+            0.6347804069519043
+        ],
+        "dice_score": [
+            0.5795551538467407
+        ],
+        "dice_ce": [
+            1.5039305686950684
+        ]
+    },
+    "45_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/45_t1-0-16.nrrd"
+        ],
+        "sensitivity": [
+            0.8785287595149142
+        ],
+        "specificity": [
+            0.982313950636196
+        ],
+        "iou": [
+            0.6384742856025696
+        ],
+        "dice_score": [
+            0.6714197993278503
+        ],
+        "dice_ce": [
+            1.4974679946899414
+        ]
+    },
+    "45_t2_SPACE.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/45_t2_SPACE-11-107.nrrd"
+        ],
+        "sensitivity": [
+            0.8918007993950524
+        ],
+        "specificity": [
+            0.9859586717244678
+        ],
+        "iou": [
+            0.6074591279029846
+        ],
+        "dice_score": [
+            0.45622149109840393
+        ],
+        "dice_ce": [
+            1.5673165321350098
+        ]
+    },
+    "47_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/47_t1-0-14.nrrd"
+        ],
+        "sensitivity": [
+            0.8110728380135502
+        ],
+        "specificity": [
+            0.9815247608876888
+        ],
+        "iou": [
+            0.5810685157775879
+        ],
+        "dice_score": [
+            0.5561684966087341
+        ],
+        "dice_ce": [
+            1.5122923851013184
+        ]
+    },
+    "47_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/47_t2-0-14.nrrd"
+        ],
+        "sensitivity": [
+            0.6661770280515542
+        ],
+        "specificity": [
+            0.9809349596952485
+        ],
+        "iou": [
+            0.46750354766845703
+        ],
+        "dice_score": [
+            0.49649620056152344
+        ],
+        "dice_ce": [
+            1.5271062850952148
+        ]
+    },
+    "48_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/48_t1-0-23.nrrd"
+        ],
+        "sensitivity": [
+            0.8663825663098784
+        ],
+        "specificity": [
+            0.9826452501196179
+        ],
+        "iou": [
+            0.6316161155700684
+        ],
+        "dice_score": [
+            0.5740359425544739
+        ],
+        "dice_ce": [
+            1.5095056295394897
+        ]
+    },
+    "48_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/48_t2-0-23.nrrd"
+        ],
+        "sensitivity": [
+            0.846842352807035
+        ],
+        "specificity": [
+            0.9839921581206108
+        ],
+        "iou": [
+            0.6306332349777222
+        ],
+        "dice_score": [
+            0.5816183090209961
+        ],
+        "dice_ce": [
+            1.510115385055542
+        ]
+    },
+    "51_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/51_t1-1-24.nrrd"
+        ],
+        "sensitivity": [
+            0.7946364773133262
+        ],
+        "specificity": [
+            0.9886288675985551
+        ],
+        "iou": [
+            0.5725064277648926
+        ],
+        "dice_score": [
+            0.47622108459472656
+        ],
+        "dice_ce": [
+            1.5692012310028076
+        ]
+    },
+    "51_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/51_t2-1-24.nrrd"
+        ],
+        "sensitivity": [
+            0.7400410861021793
+        ],
+        "specificity": [
+            0.9881550704151615
+        ],
+        "iou": [
+            0.5270339250564575
+        ],
+        "dice_score": [
+            0.44063040614128113
+        ],
+        "dice_ce": [
+            1.5720698833465576
+        ]
+    },
+    "52_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/52_t2-1-19.nrrd"
+        ],
+        "sensitivity": [
+            0.521764744386987
+        ],
+        "specificity": [
+            0.985994142267895
+        ],
+        "iou": [
+            0.4103897511959076
+        ],
+        "dice_score": [
+            0.4906589686870575
+        ],
+        "dice_ce": [
+            1.5049207210540771
+        ]
+    },
+    "52_t2_SPACE.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/52_t2_SPACE-1-116.nrrd"
+        ],
+        "sensitivity": [
+            0.9280354480413141
+        ],
+        "specificity": [
+            0.9888785687386931
+        ],
+        "iou": [
+            0.7227160334587097
+        ],
+        "dice_score": [
+            0.6032013893127441
+        ],
+        "dice_ce": [
+            1.5323400497436523
+        ]
+    },
+    "53_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/53_t1-1-16.nrrd"
+        ],
+        "sensitivity": [
+            0.8442109428238552
+        ],
+        "specificity": [
+            0.972624453560765
+        ],
+        "iou": [
+            0.5264355540275574
+        ],
+        "dice_score": [
+            0.5209481716156006
+        ],
+        "dice_ce": [
+            1.518265962600708
+        ]
+    },
+    "53_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/53_t2-1-16.nrrd"
+        ],
+        "sensitivity": [
+            0.7399705436240135
+        ],
+        "specificity": [
+            0.9716933260890154
+        ],
+        "iou": [
+            0.45559990406036377
+        ],
+        "dice_score": [
+            0.45075318217277527
+        ],
+        "dice_ce": [
+            1.526609182357788
+        ]
+    },
+    "55_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/55_t1-0-18.nrrd"
+        ],
+        "sensitivity": [
+            0.9135375270100787
+        ],
+        "specificity": [
+            0.9819271334727164
+        ],
+        "iou": [
+            0.6910398006439209
+        ],
+        "dice_score": [
+            0.7373882532119751
+        ],
+        "dice_ce": [
+            1.4630980491638184
+        ]
+    },
+    "55_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/55_t2-0-17.nrrd"
+        ],
+        "sensitivity": [
+            0.5702642846596782
+        ],
+        "specificity": [
+            0.9880063098178103
+        ],
+        "iou": [
+            0.4764512777328491
+        ],
+        "dice_score": [
+            0.5556513071060181
+        ],
+        "dice_ce": [
+            1.4713481664657593
+        ]
+    },
+    "55_t2_SPACE.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/55_t2_SPACE-0-113.nrrd"
+        ],
+        "sensitivity": [
+            0.8648533786655334
+        ],
+        "specificity": [
+            0.9897151440813129
+        ],
+        "iou": [
+            0.6664050817489624
+        ],
+        "dice_score": [
+            0.5758212804794312
+        ],
+        "dice_ce": [
+            1.549544334411621
+        ]
+    },
+    "56_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/56_t2-0-23.nrrd"
+        ],
+        "sensitivity": [
+            0.8922951579149161
+        ],
+        "specificity": [
+            0.9858872636427863
+        ],
+        "iou": [
+            0.6656457185745239
+        ],
+        "dice_score": [
+            0.6101994514465332
+        ],
+        "dice_ce": [
+            1.5238183736801147
+        ]
+    },
+    "57_t2_SPACE.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/57_t2_SPACE-6-118.nrrd"
+        ],
+        "sensitivity": [
+            0.9069581932101304
+        ],
+        "specificity": [
+            0.9834481042472002
+        ],
+        "iou": [
+            0.6413277387619019
+        ],
+        "dice_score": [
+            0.5060909390449524
+        ],
+        "dice_ce": [
+            1.53523850440979
+        ]
+    },
+    "57_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/57_t2-0-18.nrrd"
+        ],
+        "sensitivity": [
+            0.8909634756481966
+        ],
+        "specificity": [
+            0.9820763331912448
+        ],
+        "iou": [
+            0.6952844262123108
+        ],
+        "dice_score": [
+            0.7219598889350891
+        ],
+        "dice_ce": [
+            1.442978858947754
+        ]
+    },
+    "58_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/58_t1-1-18.nrrd"
+        ],
+        "sensitivity": [
+            0.7500706114955514
+        ],
+        "specificity": [
+            0.9914759007890046
+        ],
+        "iou": [
+            0.5570559501647949
+        ],
+        "dice_score": [
+            0.5292176604270935
+        ],
+        "dice_ce": [
+            1.58406662940979
+        ]
+    },
+    "58_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/58_t2-0-7.nrrd"
+        ],
+        "sensitivity": [
+            0.10170672239637757
+        ],
+        "specificity": [
+            0.9958094960463506
+        ],
+        "iou": [
+            0.05775316432118416
+        ],
+        "dice_score": [
+            0.10889023542404175
+        ],
+        "dice_ce": [
+            1.6733876466751099
+        ]
+    },
+    "59_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/59_t1-0-23.nrrd"
+        ],
+        "sensitivity": [
+            0.8715111836027055
+        ],
+        "specificity": [
+            0.980389727651191
+        ],
+        "iou": [
+            0.6541892886161804
+        ],
+        "dice_score": [
+            0.6204999685287476
+        ],
+        "dice_ce": [
+            1.4687812328338623
+        ]
+    },
+    "59_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/59_t2-0-23.nrrd"
+        ],
+        "sensitivity": [
+            0.8639147742178321
+        ],
+        "specificity": [
+            0.9788976636675013
+        ],
+        "iou": [
+            0.636412501335144
+        ],
+        "dice_score": [
+            0.6016097664833069
+        ],
+        "dice_ce": [
+            1.4705005884170532
+        ]
+    },
+    "60_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/60_t1-2-25.nrrd"
+        ],
+        "sensitivity": [
+            0.7898666207233206
+        ],
+        "specificity": [
+            0.985092598321063
+        ],
+        "iou": [
+            0.5975993871688843
+        ],
+        "dice_score": [
+            0.6104111075401306
+        ],
+        "dice_ce": [
+            1.5087356567382812
+        ]
+    },
+    "61_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/61_t1-1-19.nrrd"
+        ],
+        "sensitivity": [
+            0.7968289085545722
+        ],
+        "specificity": [
+            0.988784316643107
+        ],
+        "iou": [
+            0.6570820212364197
+        ],
+        "dice_score": [
+            0.6617379188537598
+        ],
+        "dice_ce": [
+            1.479943871498108
+        ]
+    },
+    "61_t2_SPACE.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/61_t2_SPACE-6-109.nrrd"
+        ],
+        "sensitivity": [
+            0.70319618323349
+        ],
+        "specificity": [
+            0.9861104235267487
+        ],
+        "iou": [
+            0.5157538056373596
+        ],
+        "dice_score": [
+            0.4476562440395355
+        ],
+        "dice_ce": [
+            1.548064947128296
+        ]
+    },
+    "61_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/61_t2-0-19.nrrd"
+        ],
+        "sensitivity": [
+            0.6696992231381422
+        ],
+        "specificity": [
+            0.986237462094705
+        ],
+        "iou": [
+            0.5266386270523071
+        ],
+        "dice_score": [
+            0.5376304984092712
+        ],
+        "dice_ce": [
+            1.4997856616973877
+        ]
+    },
+    "62_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/62_t1-0-14.nrrd"
+        ],
+        "sensitivity": [
+            0.8781734429884526
+        ],
+        "specificity": [
+            0.9717850511546269
+        ],
+        "iou": [
+            0.5646758079528809
+        ],
+        "dice_score": [
+            0.5860196352005005
+        ],
+        "dice_ce": [
+            1.4970887899398804
+        ]
+    },
+    "63_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/63_t1-1-21.nrrd"
+        ],
+        "sensitivity": [
+            0.8149081314920016
+        ],
+        "specificity": [
+            0.9825488968921101
+        ],
+        "iou": [
+            0.5245891809463501
+        ],
+        "dice_score": [
+            0.483333945274353
+        ],
+        "dice_ce": [
+            1.5629463195800781
+        ]
+    },
+    "63_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/63_t2-1-21.nrrd"
+        ],
+        "sensitivity": [
+            0.7228019300705949
+        ],
+        "specificity": [
+            0.9822131113751091
+        ],
+        "iou": [
+            0.46212881803512573
+        ],
+        "dice_score": [
+            0.42138245701789856
+        ],
+        "dice_ce": [
+            1.5679314136505127
+        ]
+    },
+    "64_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/64_t2-1-14.nrrd"
+        ],
+        "sensitivity": [
+            0.850815144165993
+        ],
+        "specificity": [
+            0.9790767456319778
+        ],
+        "iou": [
+            0.523350715637207
+        ],
+        "dice_score": [
+            0.5201879739761353
+        ],
+        "dice_ce": [
+            1.5554238557815552
+        ]
+    },
+    "65_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/65_t1-2-24.nrrd"
+        ],
+        "sensitivity": [
+            0.7650668957898613
+        ],
+        "specificity": [
+            0.9907295343697945
+        ],
+        "iou": [
+            0.5736135840415955
+        ],
+        "dice_score": [
+            0.5965387225151062
+        ],
+        "dice_ce": [
+            1.5684967041015625
+        ]
+    },
+    "65_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/65_t2-2-24.nrrd"
+        ],
+        "sensitivity": [
+            0.7588324560155546
+        ],
+        "specificity": [
+            0.9892298010994066
+        ],
+        "iou": [
+            0.5522138476371765
+        ],
+        "dice_score": [
+            0.5939902067184448
+        ],
+        "dice_ce": [
+            1.5656344890594482
+        ]
+    },
+    "65_t2_SPACE.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/65_t2_SPACE-23-135.nrrd"
+        ],
+        "sensitivity": [
+            0.8663826622037394
+        ],
+        "specificity": [
+            0.9789363912605357
+        ],
+        "iou": [
+            0.5288684964179993
+        ],
+        "dice_score": [
+            0.477228045463562
+        ],
+        "dice_ce": [
+            1.558781385421753
+        ]
+    },
+    "66_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/66_t1-0-17.nrrd"
+        ],
+        "sensitivity": [
+            0.7923833317318472
+        ],
+        "specificity": [
+            0.9891460232126204
+        ],
+        "iou": [
+            0.5662912726402283
+        ],
+        "dice_score": [
+            0.544935941696167
+        ],
+        "dice_ce": [
+            1.5763592720031738
+        ]
+    },
+    "66_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/66_t2-0-16.nrrd"
+        ],
+        "sensitivity": [
+            0.7126276090773133
+        ],
+        "specificity": [
+            0.9879669987834079
+        ],
+        "iou": [
+            0.500502347946167
+        ],
+        "dice_score": [
+            0.519972562789917
+        ],
+        "dice_ce": [
+            1.575648546218872
+        ]
+    },
+    "67_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/67_t1-4-20.nrrd"
+        ],
+        "sensitivity": [
+            0.62236318041009
+        ],
+        "specificity": [
+            0.9892472336659537
+        ],
+        "iou": [
+            0.33230939507484436
+        ],
+        "dice_score": [
+            0.39393264055252075
+        ],
+        "dice_ce": [
+            1.639910101890564
+        ]
+    },
+    "68_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/68_t1-0-16.nrrd"
+        ],
+        "sensitivity": [
+            0.6793058311869273
+        ],
+        "specificity": [
+            0.9867991068164306
+        ],
+        "iou": [
+            0.5236297249794006
+        ],
+        "dice_score": [
+            0.5059777498245239
+        ],
+        "dice_ce": [
+            1.5216283798217773
+        ]
+    },
+    "68_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/68_t2-0-16.nrrd"
+        ],
+        "sensitivity": [
+            0.6591819395557713
+        ],
+        "specificity": [
+            0.9833057506588847
+        ],
+        "iou": [
+            0.48485299944877625
+        ],
+        "dice_score": [
+            0.45788562297821045
+        ],
+        "dice_ce": [
+            1.5197621583938599
+        ]
+    },
+    "71_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/71_t1-0-14.nrrd"
+        ],
+        "sensitivity": [
+            0.8147543659213318
+        ],
+        "specificity": [
+            0.9829591203966171
+        ],
+        "iou": [
+            0.593176007270813
+        ],
+        "dice_score": [
+            0.5316047072410583
+        ],
+        "dice_ce": [
+            1.5144381523132324
+        ]
+    },
+    "72_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/72_t1-0-16.nrrd"
+        ],
+        "sensitivity": [
+            0.7529889465373336
+        ],
+        "specificity": [
+            0.9883380939016229
+        ],
+        "iou": [
+            0.6000947952270508
+        ],
+        "dice_score": [
+            0.5842801332473755
+        ],
+        "dice_ce": [
+            1.5128095149993896
+        ]
+    },
+    "73_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/73_t1-0-14.nrrd"
+        ],
+        "sensitivity": [
+            0.7974641942849235
+        ],
+        "specificity": [
+            0.9696928757019891
+        ],
+        "iou": [
+            0.5369992852210999
+        ],
+        "dice_score": [
+            0.5790114402770996
+        ],
+        "dice_ce": [
+            1.4699888229370117
+        ]
+    },
+    "73_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/73_t2-0-14.nrrd"
+        ],
+        "sensitivity": [
+            0.6841471081307627
+        ],
+        "specificity": [
+            0.9655326990546309
+        ],
+        "iou": [
+            0.43933701515197754
+        ],
+        "dice_score": [
+            0.4924688935279846
+        ],
+        "dice_ce": [
+            1.4852547645568848
+        ]
+    },
+    "74_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/74_t1-0-23.nrrd"
+        ],
+        "sensitivity": [
+            0.8431918297573912
+        ],
+        "specificity": [
+            0.9819942575962441
+        ],
+        "iou": [
+            0.5261185765266418
+        ],
+        "dice_score": [
+            0.5429024696350098
+        ],
+        "dice_ce": [
+            1.5690548419952393
+        ]
+    },
+    "74_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/74_t2-0-23.nrrd"
+        ],
+        "sensitivity": [
+            0.7205724429639045
+        ],
+        "specificity": [
+            0.9851876102891828
+        ],
+        "iou": [
+            0.48173654079437256
+        ],
+        "dice_score": [
+            0.5008622407913208
+        ],
+        "dice_ce": [
+            1.5723412036895752
+        ]
+    },
+    "75_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/75_t1-0-23.nrrd"
+        ],
+        "sensitivity": [
+            0.8478651408883967
+        ],
+        "specificity": [
+            0.9896040343838943
+        ],
+        "iou": [
+            0.6090976595878601
+        ],
+        "dice_score": [
+            0.5540809631347656
+        ],
+        "dice_ce": [
+            1.576464295387268
+        ]
+    },
+    "75_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/75_t2-0-23.nrrd"
+        ],
+        "sensitivity": [
+            0.8441429352417872
+        ],
+        "specificity": [
+            0.9887395587431212
+        ],
+        "iou": [
+            0.5907825827598572
+        ],
+        "dice_score": [
+            0.538787305355072
+        ],
+        "dice_ce": [
+            1.5783100128173828
+        ]
+    },
+    "77_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/77_t1-0-16.nrrd"
+        ],
+        "sensitivity": [
+            0.8822052168968704
+        ],
+        "specificity": [
+            0.982922895075394
+        ],
+        "iou": [
+            0.6153451800346375
+        ],
+        "dice_score": [
+            0.5776795148849487
+        ],
+        "dice_ce": [
+            1.5302242040634155
+        ]
+    },
+    "78_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/78_t1-0-16.nrrd"
+        ],
+        "sensitivity": [
+            0.9101409588007092
+        ],
+        "specificity": [
+            0.9800472026070217
+        ],
+        "iou": [
+            0.6642070412635803
+        ],
+        "dice_score": [
+            0.723939836025238
+        ],
+        "dice_ce": [
+            1.4701350927352905
+        ]
+    },
+    "78_t2_SPACE.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/78_t2_SPACE-7-115.nrrd"
+        ],
+        "sensitivity": [
+            0.9112404870265869
+        ],
+        "specificity": [
+            0.9858300830578661
+        ],
+        "iou": [
+            0.6231862306594849
+        ],
+        "dice_score": [
+            0.5114450454711914
+        ],
+        "dice_ce": [
+            1.5640909671783447
+        ]
+    },
+    "78_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/78_t2-0-16.nrrd"
+        ],
+        "sensitivity": [
+            0.8978531430477293
+        ],
+        "specificity": [
+            0.9777740991065559
+        ],
+        "iou": [
+            0.635671079158783
+        ],
+        "dice_score": [
+            0.70013827085495
+        ],
+        "dice_ce": [
+            1.4731229543685913
+        ]
+    },
+    "80_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/80_t1-1-24.nrrd"
+        ],
+        "sensitivity": [
+            0.8561429794520548
+        ],
+        "specificity": [
+            0.9862974922418855
+        ],
+        "iou": [
+            0.5914212465286255
+        ],
+        "dice_score": [
+            0.5043100714683533
+        ],
+        "dice_ce": [
+            1.5640413761138916
+        ]
+    },
+    "80_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/80_t2-1-24.nrrd"
+        ],
+        "sensitivity": [
+            0.7937839804786164
+        ],
+        "specificity": [
+            0.9849660517407902
+        ],
+        "iou": [
+            0.5323418974876404
+        ],
+        "dice_score": [
+            0.44817423820495605
+        ],
+        "dice_ce": [
+            1.5679869651794434
+        ]
+    },
+    "81_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/81_t1-1-19.nrrd"
+        ],
+        "sensitivity": [
+            0.7749196912307619
+        ],
+        "specificity": [
+            0.9868621569295454
+        ],
+        "iou": [
+            0.5619295835494995
+        ],
+        "dice_score": [
+            0.5664544105529785
+        ],
+        "dice_ce": [
+            1.545262098312378
+        ]
+    },
+    "81_t2_SPACE.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/81_t2_SPACE-10-122.nrrd"
+        ],
+        "sensitivity": [
+            0.8319492703266157
+        ],
+        "specificity": [
+            0.9879458938117112
+        ],
+        "iou": [
+            0.5528272390365601
+        ],
+        "dice_score": [
+            0.4056627154350281
+        ],
+        "dice_ce": [
+            1.59243643283844
+        ]
+    },
+    "82_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/82_t1-1-16.nrrd"
+        ],
+        "sensitivity": [
+            0.8453371632943297
+        ],
+        "specificity": [
+            0.9771184698181282
+        ],
+        "iou": [
+            0.6428624987602234
+        ],
+        "dice_score": [
+            0.5889010429382324
+        ],
+        "dice_ce": [
+            1.4361077547073364
+        ]
+    },
+    "82_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/82_t2-1-16.nrrd"
+        ],
+        "sensitivity": [
+            0.7125597749648382
+        ],
+        "specificity": [
+            0.9718939390839264
+        ],
+        "iou": [
+            0.5139642953872681
+        ],
+        "dice_score": [
+            0.5122561454772949
+        ],
+        "dice_ce": [
+            1.453197717666626
+        ]
+    },
+    "83_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/83_t2-4-27.nrrd"
+        ],
+        "sensitivity": [
+            0.7248203427307905
+        ],
+        "specificity": [
+            0.9862053616748792
+        ],
+        "iou": [
+            0.4570392966270447
+        ],
+        "dice_score": [
+            0.4857231378555298
+        ],
+        "dice_ce": [
+            1.5925571918487549
+        ]
+    },
+    "85_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/85_t1-0-14.nrrd"
+        ],
+        "sensitivity": [
+            0.7971355839459472
+        ],
+        "specificity": [
+            0.9818970528380767
+        ],
+        "iou": [
+            0.5672445297241211
+        ],
+        "dice_score": [
+            0.5721234083175659
+        ],
+        "dice_ce": [
+            1.5159523487091064
+        ]
+    },
+    "85_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/85_t2-0-14.nrrd"
+        ],
+        "sensitivity": [
+            0.7777383822625632
+        ],
+        "specificity": [
+            0.973759851350116
+        ],
+        "iou": [
+            0.4911555349826813
+        ],
+        "dice_score": [
+            0.5133061408996582
+        ],
+        "dice_ce": [
+            1.5222746133804321
+        ]
+    },
+    "86_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/86_t1-1-23.nrrd"
+        ],
+        "sensitivity": [
+            0.8267046478924025
+        ],
+        "specificity": [
+            0.9833200400589037
+        ],
+        "iou": [
+            0.5754552483558655
+        ],
+        "dice_score": [
+            0.5018823146820068
+        ],
+        "dice_ce": [
+            1.5389502048492432
+        ]
+    },
+    "86_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/86_t2-1-23.nrrd"
+        ],
+        "sensitivity": [
+            0.7811091479464898
+        ],
+        "specificity": [
+            0.9799815684961793
+        ],
+        "iou": [
+            0.5125399231910706
+        ],
+        "dice_score": [
+            0.4654947817325592
+        ],
+        "dice_ce": [
+            1.5440870523452759
+        ]
+    },
+    "87_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/87_t1-1-25.nrrd"
+        ],
+        "sensitivity": [
+            0.8477849909875584
+        ],
+        "specificity": [
+            0.9781767602175828
+        ],
+        "iou": [
+            0.5643821954727173
+        ],
+        "dice_score": [
+            0.5729056596755981
+        ],
+        "dice_ce": [
+            1.5198765993118286
+        ]
+    },
+    "87_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/87_t2-1-25.nrrd"
+        ],
+        "sensitivity": [
+            0.7551546769442694
+        ],
+        "specificity": [
+            0.9789149010833921
+        ],
+        "iou": [
+            0.5084660649299622
+        ],
+        "dice_score": [
+            0.5397831797599792
+        ],
+        "dice_ce": [
+            1.524864912033081
+        ]
+    },
+    "88_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/88_t1-1-16.nrrd"
+        ],
+        "sensitivity": [
+            0.8295608636695525
+        ],
+        "specificity": [
+            0.9895954180640409
+        ],
+        "iou": [
+            0.6510980725288391
+        ],
+        "dice_score": [
+            0.6442849040031433
+        ],
+        "dice_ce": [
+            1.5330569744110107
+        ]
+    },
+    "88_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/88_t2-1-16.nrrd"
+        ],
+        "sensitivity": [
+            0.7386583947266382
+        ],
+        "specificity": [
+            0.9846030005827333
+        ],
+        "iou": [
+            0.5159106254577637
+        ],
+        "dice_score": [
+            0.56822669506073
+        ],
+        "dice_ce": [
+            1.549760103225708
+        ]
+    },
+    "89_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/89_t2-0-13.nrrd"
+        ],
+        "sensitivity": [
+            0.662077553702999
+        ],
+        "specificity": [
+            0.9821741063139
+        ],
+        "iou": [
+            0.4277190566062927
+        ],
+        "dice_score": [
+            0.4847445785999298
+        ],
+        "dice_ce": [
+            1.5669965744018555
+        ]
+    },
+    "90_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/90_t1-1-17.nrrd"
+        ],
+        "sensitivity": [
+            0.8165334897246047
+        ],
+        "specificity": [
+            0.9844556736977363
+        ],
+        "iou": [
+            0.5800711512565613
+        ],
+        "dice_score": [
+            0.5782116651535034
+        ],
+        "dice_ce": [
+            1.5370532274246216
+        ]
+    },
+    "90_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/90_t2-1-17.nrrd"
+        ],
+        "sensitivity": [
+            0.7916456207697747
+        ],
+        "specificity": [
+            0.9772688354570802
+        ],
+        "iou": [
+            0.4896205961704254
+        ],
+        "dice_score": [
+            0.5040494203567505
+        ],
+        "dice_ce": [
+            1.5488393306732178
+        ]
+    },
+    "91_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/91_t2-0-14.nrrd"
+        ],
+        "sensitivity": [
+            0.7813982763629321
+        ],
+        "specificity": [
+            0.9860055727107075
+        ],
+        "iou": [
+            0.5923981666564941
+        ],
+        "dice_score": [
+            0.5641636848449707
+        ],
+        "dice_ce": [
+            1.521010398864746
+        ]
+    },
+    "93_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/93_t1-0-15.nrrd"
+        ],
+        "sensitivity": [
+            0.7698518879952151
+        ],
+        "specificity": [
+            0.9827885686208623
+        ],
+        "iou": [
+            0.6076881885528564
+        ],
+        "dice_score": [
+            0.6369361281394958
+        ],
+        "dice_ce": [
+            1.4564573764801025
+        ]
+    },
+    "93_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/93_t2-0-15.nrrd"
+        ],
+        "sensitivity": [
+            0.8069345599722271
+        ],
+        "specificity": [
+            0.9699237526596722
+        ],
+        "iou": [
+            0.5658282041549683
+        ],
+        "dice_score": [
+            0.5780672430992126
+        ],
+        "dice_ce": [
+            1.4480855464935303
+        ]
+    },
+    "94_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/94_t1-1-24.nrrd"
+        ],
+        "sensitivity": [
+            0.7824931567064277
+        ],
+        "specificity": [
+            0.9800107038609417
+        ],
+        "iou": [
+            0.48656338453292847
+        ],
+        "dice_score": [
+            0.45559072494506836
+        ],
+        "dice_ce": [
+            1.5640937089920044
+        ]
+    },
+    "94_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/94_t2-1-24.nrrd"
+        ],
+        "sensitivity": [
+            0.6610921297128813
+        ],
+        "specificity": [
+            0.9830248585678497
+        ],
+        "iou": [
+            0.4359346032142639
+        ],
+        "dice_score": [
+            0.4336034655570984
+        ],
+        "dice_ce": [
+            1.567814588546753
+        ]
+    },
+    "95_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/95_t1-0-23.nrrd"
+        ],
+        "sensitivity": [
+            0.9315545446592599
+        ],
+        "specificity": [
+            0.9821251968550692
+        ],
+        "iou": [
+            0.6319794058799744
+        ],
+        "dice_score": [
+            0.5821273326873779
+        ],
+        "dice_ce": [
+            1.5359864234924316
+        ]
+    },
+    "95_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/95_t2-0-23.nrrd"
+        ],
+        "sensitivity": [
+            0.8876458981304973
+        ],
+        "specificity": [
+            0.9823325151249586
+        ],
+        "iou": [
+            0.6134352087974548
+        ],
+        "dice_score": [
+            0.5597618818283081
+        ],
+        "dice_ce": [
+            1.5324909687042236
+        ]
+    },
+    "96_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/96_t1-0-14.nrrd"
+        ],
+        "sensitivity": [
+            0.8810369762002536
+        ],
+        "specificity": [
+            0.9773114383445646
+        ],
+        "iou": [
+            0.6405077576637268
+        ],
+        "dice_score": [
+            0.6862704753875732
+        ],
+        "dice_ce": [
+            1.460225224494934
+        ]
+    },
+    "97_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/97_t2-1-16.nrrd"
+        ],
+        "sensitivity": [
+            0.7110176125244618
+        ],
+        "specificity": [
+            0.9779663871611949
+        ],
+        "iou": [
+            0.49718108773231506
+        ],
+        "dice_score": [
+            0.5016999244689941
+        ],
+        "dice_ce": [
+            1.5041697025299072
+        ]
+    },
+    "98_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/98_t1-0-16.nrrd"
+        ],
+        "sensitivity": [
+            0.8210548657540061
+        ],
+        "specificity": [
+            0.9889596690524903
+        ],
+        "iou": [
+            0.6568299531936646
+        ],
+        "dice_score": [
+            0.6882859468460083
+        ],
+        "dice_ce": [
+            1.506098985671997
+        ]
+    },
+    "98_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/98_t2-0-16.nrrd"
+        ],
+        "sensitivity": [
+            0.8464686964874911
+        ],
+        "specificity": [
+            0.9828422867197011
+        ],
+        "iou": [
+            0.6124811172485352
+        ],
+        "dice_score": [
+            0.6787245273590088
+        ],
+        "dice_ce": [
+            1.5065994262695312
+        ]
+    },
+    "98_t2_SPACE.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/98_t2_SPACE-12-105.nrrd"
+        ],
+        "sensitivity": [
+            0.8721328380111315
+        ],
+        "specificity": [
+            0.9906689884778125
+        ],
+        "iou": [
+            0.6362965703010559
+        ],
+        "dice_score": [
+            0.49293947219848633
+        ],
+        "dice_ce": [
+            1.5817261934280396
+        ]
+    },
+    "99_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/99_t2-3-20.nrrd"
+        ],
+        "sensitivity": [
+            0.5961933196491883
+        ],
+        "specificity": [
+            0.9890526663177408
+        ],
+        "iou": [
+            0.33263924717903137
+        ],
+        "dice_score": [
+            0.3097609579563141
+        ],
+        "dice_ce": [
+            1.63495934009552
+        ]
+    },
+    "100_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/100_t1-2-18.nrrd"
+        ],
+        "sensitivity": [
+            0.7483891496301011
+        ],
+        "specificity": [
+            0.9882209794576526
+        ],
+        "iou": [
+            0.4955621659755707
+        ],
+        "dice_score": [
+            0.42666998505592346
+        ],
+        "dice_ce": [
+            1.5929341316223145
+        ]
+    },
+    "101_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/101_t1-0-15.nrrd"
+        ],
+        "sensitivity": [
+            0.6980006248047486
+        ],
+        "specificity": [
+            0.9786248826882371
+        ],
+        "iou": [
+            0.5253159403800964
+        ],
+        "dice_score": [
+            0.4840691089630127
+        ],
+        "dice_ce": [
+            1.4663147926330566
+        ]
+    },
+    "101_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/101_t2-0-15.nrrd"
+        ],
+        "sensitivity": [
+            0.5659475848056257
+        ],
+        "specificity": [
+            0.9767243417321189
+        ],
+        "iou": [
+            0.4148736894130707
+        ],
+        "dice_score": [
+            0.4018445909023285
+        ],
+        "dice_ce": [
+            1.4814984798431396
+        ]
+    },
+    "104_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/104_t1-0-14.nrrd"
+        ],
+        "sensitivity": [
+            0.8531179780675642
+        ],
+        "specificity": [
+            0.9794064476766731
+        ],
+        "iou": [
+            0.6235314011573792
+        ],
+        "dice_score": [
+            0.5994668006896973
+        ],
+        "dice_ce": [
+            1.4778797626495361
+        ]
+    },
+    "104_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/104_t2-0-14.nrrd"
+        ],
+        "sensitivity": [
+            0.8759043484883101
+        ],
+        "specificity": [
+            0.9772309127408878
+        ],
+        "iou": [
+            0.624140202999115
+        ],
+        "dice_score": [
+            0.6156722903251648
+        ],
+        "dice_ce": [
+            1.475348711013794
+        ]
+    },
+    "105_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/105_t2-1-24.nrrd"
+        ],
+        "sensitivity": [
+            0.7312110121308381
+        ],
+        "specificity": [
+            0.9836277911706456
+        ],
+        "iou": [
+            0.4638523459434509
+        ],
+        "dice_score": [
+            0.38300150632858276
+        ],
+        "dice_ce": [
+            1.5817606449127197
+        ]
+    },
+    "106_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/106_t1-0-14.nrrd"
+        ],
+        "sensitivity": [
+            0.922652779905039
+        ],
+        "specificity": [
+            0.9776268853885028
+        ],
+        "iou": [
+            0.6824773550033569
+        ],
+        "dice_score": [
+            0.7213611602783203
+        ],
+        "dice_ce": [
+            1.4484949111938477
+        ]
+    },
+    "106_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/106_t2-0-14.nrrd"
+        ],
+        "sensitivity": [
+            0.7041860781446594
+        ],
+        "specificity": [
+            0.9757624217453307
+        ],
+        "iou": [
+            0.5099550485610962
+        ],
+        "dice_score": [
+            0.6178054213523865
+        ],
+        "dice_ce": [
+            1.468449592590332
+        ]
+    },
+    "107_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/107_t1-0-16.nrrd"
+        ],
+        "sensitivity": [
+            0.9246002843963514
+        ],
+        "specificity": [
+            0.9847943008918582
+        ],
+        "iou": [
+            0.7231520414352417
+        ],
+        "dice_score": [
+            0.8107227683067322
+        ],
+        "dice_ce": [
+            1.4602930545806885
+        ]
+    },
+    "107_t2_SPACE.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/107_t2_SPACE-4-112.nrrd"
+        ],
+        "sensitivity": [
+            0.8791735127956966
+        ],
+        "specificity": [
+            0.9873610065422879
+        ],
+        "iou": [
+            0.630780041217804
+        ],
+        "dice_score": [
+            0.5740894675254822
+        ],
+        "dice_ce": [
+            1.5557777881622314
+        ]
+    },
+    "107_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/107_t2-0-16.nrrd"
+        ],
+        "sensitivity": [
+            0.8773280615960878
+        ],
+        "specificity": [
+            0.9819479651586546
+        ],
+        "iou": [
+            0.6592908501625061
+        ],
+        "dice_score": [
+            0.7665469646453857
+        ],
+        "dice_ce": [
+            1.466202735900879
+        ]
+    },
+    "108_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/108_t1-0-16.nrrd"
+        ],
+        "sensitivity": [
+            0.8691455261470831
+        ],
+        "specificity": [
+            0.9823617742801672
+        ],
+        "iou": [
+            0.6475034952163696
+        ],
+        "dice_score": [
+            0.6641167402267456
+        ],
+        "dice_ce": [
+            1.4884977340698242
+        ]
+    },
+    "108_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/108_t2-0-16.nrrd"
+        ],
+        "sensitivity": [
+            0.6878712011841889
+        ],
+        "specificity": [
+            0.9818659965961576
+        ],
+        "iou": [
+            0.5091300010681152
+        ],
+        "dice_score": [
+            0.5323764085769653
+        ],
+        "dice_ce": [
+            1.502291202545166
+        ]
+    },
+    "109_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/109_t2-3-27.nrrd"
+        ],
+        "sensitivity": [
+            0.8218509209279328
+        ],
+        "specificity": [
+            0.9844143705554319
+        ],
+        "iou": [
+            0.5440893769264221
+        ],
+        "dice_score": [
+            0.5462430119514465
+        ],
+        "dice_ce": [
+            1.5645289421081543
+        ]
+    },
+    "110_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/110_t1-0-16.nrrd"
+        ],
+        "sensitivity": [
+            0.9234541378666169
+        ],
+        "specificity": [
+            0.9814854325653696
+        ],
+        "iou": [
+            0.7089298963546753
+        ],
+        "dice_score": [
+            0.7918630838394165
+        ],
+        "dice_ce": [
+            1.4393267631530762
+        ]
+    },
+    "110_t2_SPACE.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/110_t2_SPACE-1-115.nrrd"
+        ],
+        "sensitivity": [
+            0.9289821251445669
+        ],
+        "specificity": [
+            0.9893056625927704
+        ],
+        "iou": [
+            0.7032227516174316
+        ],
+        "dice_score": [
+            0.5761021375656128
+        ],
+        "dice_ce": [
+            1.5497267246246338
+        ]
+    },
+    "110_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/110_t2-0-16.nrrd"
+        ],
+        "sensitivity": [
+            0.932530045457376
+        ],
+        "specificity": [
+            0.9824360210158152
+        ],
+        "iou": [
+            0.7245391607284546
+        ],
+        "dice_score": [
+            0.8137819766998291
+        ],
+        "dice_ce": [
+            1.43760347366333
+        ]
+    },
+    "112_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/112_t1-0-23.nrrd"
+        ],
+        "sensitivity": [
+            0.8703152431112129
+        ],
+        "specificity": [
+            0.9888429609255843
+        ],
+        "iou": [
+            0.6063495874404907
+        ],
+        "dice_score": [
+            0.514635443687439
+        ],
+        "dice_ce": [
+            1.5811505317687988
+        ]
+    },
+    "112_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/112_t2-0-23.nrrd"
+        ],
+        "sensitivity": [
+            0.8138818919675342
+        ],
+        "specificity": [
+            0.9878935366770543
+        ],
+        "iou": [
+            0.5527657270431519
+        ],
+        "dice_score": [
+            0.4994926154613495
+        ],
+        "dice_ce": [
+            1.5843102931976318
+        ]
+    },
+    "113_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/113_t1-1-24.nrrd"
+        ],
+        "sensitivity": [
+            0.7845080763582967
+        ],
+        "specificity": [
+            0.9841457674274279
+        ],
+        "iou": [
+            0.5351513028144836
+        ],
+        "dice_score": [
+            0.540101945400238
+        ],
+        "dice_ce": [
+            1.554863452911377
+        ]
+    },
+    "113_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/113_t2-1-24.nrrd"
+        ],
+        "sensitivity": [
+            0.8191514027359147
+        ],
+        "specificity": [
+            0.9843903259992058
+        ],
+        "iou": [
+            0.561536431312561
+        ],
+        "dice_score": [
+            0.5511893033981323
+        ],
+        "dice_ce": [
+            1.553246259689331
+        ]
+    },
+    "115_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/115_t1-0-23.nrrd"
+        ],
+        "sensitivity": [
+            0.8342707250212685
+        ],
+        "specificity": [
+            0.9902538175869036
+        ],
+        "iou": [
+            0.6168294548988342
+        ],
+        "dice_score": [
+            0.536547064781189
+        ],
+        "dice_ce": [
+            1.5731472969055176
+        ]
+    },
+    "115_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/115_t2-0-23.nrrd"
+        ],
+        "sensitivity": [
+            0.8046129123735702
+        ],
+        "specificity": [
+            0.9862173548297734
+        ],
+        "iou": [
+            0.5369415283203125
+        ],
+        "dice_score": [
+            0.5000301599502563
+        ],
+        "dice_ce": [
+            1.5771780014038086
+        ]
+    },
+    "116_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/116_t1-0-14.nrrd"
+        ],
+        "sensitivity": [
+            0.7859528169772703
+        ],
+        "specificity": [
+            0.9874737094465924
+        ],
+        "iou": [
+            0.5497563481330872
+        ],
+        "dice_score": [
+            0.5104730725288391
+        ],
+        "dice_ce": [
+            1.5677299499511719
+        ]
+    },
+    "116_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/116_t2-0-13.nrrd"
+        ],
+        "sensitivity": [
+            0.7638586437440306
+        ],
+        "specificity": [
+            0.9768177631379659
+        ],
+        "iou": [
+            0.42687562108039856
+        ],
+        "dice_score": [
+            0.44647276401519775
+        ],
+        "dice_ce": [
+            1.575132131576538
+        ]
+    },
+    "117_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/117_t2-3-23.nrrd"
+        ],
+        "sensitivity": [
+            0.8703186381492798
+        ],
+        "specificity": [
+            0.9833610936565156
+        ],
+        "iou": [
+            0.5868122577667236
+        ],
+        "dice_score": [
+            0.5494155287742615
+        ],
+        "dice_ce": [
+            1.5466418266296387
+        ]
+    },
+    "118_t2_SPACE.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/118_t2_SPACE-13-123.nrrd"
+        ],
+        "sensitivity": [
+            0.9080643927806669
+        ],
+        "specificity": [
+            0.9782467528763823
+        ],
+        "iou": [
+            0.5735120177268982
+        ],
+        "dice_score": [
+            0.4924936294555664
+        ],
+        "dice_ce": [
+            1.5462820529937744
+        ]
+    },
+    "120_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/120_t2-0-14.nrrd"
+        ],
+        "sensitivity": [
+            0.25639822778212146
+        ],
+        "specificity": [
+            0.982723067314512
+        ],
+        "iou": [
+            0.17988334596157074
+        ],
+        "dice_score": [
+            0.2878175377845764
+        ],
+        "dice_ce": [
+            1.564762830734253
+        ]
+    },
+    "121_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/121_t1-2-25.nrrd"
+        ],
+        "sensitivity": [
+            0.7999346191565871
+        ],
+        "specificity": [
+            0.9889603518772541
+        ],
+        "iou": [
+            0.6133002638816833
+        ],
+        "dice_score": [
+            0.5633528828620911
+        ],
+        "dice_ce": [
+            1.5432748794555664
+        ]
+    },
+    "121_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/121_t2-2-25.nrrd"
+        ],
+        "sensitivity": [
+            0.7940321819040355
+        ],
+        "specificity": [
+            0.9863387978142076
+        ],
+        "iou": [
+            0.5768170356750488
+        ],
+        "dice_score": [
+            0.5273705720901489
+        ],
+        "dice_ce": [
+            1.5456006526947021
+        ]
+    },
+    "122_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/122_t1-0-14.nrrd"
+        ],
+        "sensitivity": [
+            0.8834386693079269
+        ],
+        "specificity": [
+            0.985609264568136
+        ],
+        "iou": [
+            0.6176031231880188
+        ],
+        "dice_score": [
+            0.5806185603141785
+        ],
+        "dice_ce": [
+            1.5493354797363281
+        ]
+    },
+    "122_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/122_t2-0-14.nrrd"
+        ],
+        "sensitivity": [
+            0.7393988525816912
+        ],
+        "specificity": [
+            0.9824862666251651
+        ],
+        "iou": [
+            0.4866706430912018
+        ],
+        "dice_score": [
+            0.49954888224601746
+        ],
+        "dice_ce": [
+            1.558359980583191
+        ]
+    },
+    "123_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/123_t2-4-19.nrrd"
+        ],
+        "sensitivity": [
+            0.39220794257265257
+        ],
+        "specificity": [
+            0.9871405272170518
+        ],
+        "iou": [
+            0.22186927497386932
+        ],
+        "dice_score": [
+            0.3130473494529724
+        ],
+        "dice_ce": [
+            1.630117654800415
+        ]
+    },
+    "124_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/124_t2-0-15.nrrd"
+        ],
+        "sensitivity": [
+            0.8567633993313691
+        ],
+        "specificity": [
+            0.9797196331081541
+        ],
+        "iou": [
+            0.6568512916564941
+        ],
+        "dice_score": [
+            0.6775315403938293
+        ],
+        "dice_ce": [
+            1.4475510120391846
+        ]
+    },
+    "125_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/125_t1-1-23.nrrd"
+        ],
+        "sensitivity": [
+            0.8241749001471516
+        ],
+        "specificity": [
+            0.9861737356465935
+        ],
+        "iou": [
+            0.5786607265472412
+        ],
+        "dice_score": [
+            0.5108901858329773
+        ],
+        "dice_ce": [
+            1.5575995445251465
+        ]
+    },
+    "125_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/125_t2-1-23.nrrd"
+        ],
+        "sensitivity": [
+            0.8208324574311541
+        ],
+        "specificity": [
+            0.9856531014044794
+        ],
+        "iou": [
+            0.5699210166931152
+        ],
+        "dice_score": [
+            0.5129069685935974
+        ],
+        "dice_ce": [
+            1.5587306022644043
+        ]
+    },
+    "126_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/126_t1-0-14.nrrd"
+        ],
+        "sensitivity": [
+            0.895239050149563
+        ],
+        "specificity": [
+            0.9774414833638251
+        ],
+        "iou": [
+            0.6641129851341248
+        ],
+        "dice_score": [
+            0.7020208835601807
+        ],
+        "dice_ce": [
+            1.4430134296417236
+        ]
+    },
+    "129_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/129_t1-0-18.nrrd"
+        ],
+        "sensitivity": [
+            0.9225076000795522
+        ],
+        "specificity": [
+            0.9800449442027936
+        ],
+        "iou": [
+            0.6920404434204102
+        ],
+        "dice_score": [
+            0.7395929098129272
+        ],
+        "dice_ce": [
+            1.4523911476135254
+        ]
+    },
+    "129_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/129_t2-0-18.nrrd"
+        ],
+        "sensitivity": [
+            0.8904167968860982
+        ],
+        "specificity": [
+            0.9805429055405647
+        ],
+        "iou": [
+            0.6721571683883667
+        ],
+        "dice_score": [
+            0.7244091629981995
+        ],
+        "dice_ce": [
+            1.4547803401947021
+        ]
+    },
+    "129_t2_SPACE.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/129_t2_SPACE-1-119.nrrd"
+        ],
+        "sensitivity": [
+            0.9142678017055798
+        ],
+        "specificity": [
+            0.9880817721674233
+        ],
+        "iou": [
+            0.6827368140220642
+        ],
+        "dice_score": [
+            0.5516848564147949
+        ],
+        "dice_ce": [
+            1.5475530624389648
+        ]
+    },
+    "130_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/130_t1-1-25.nrrd"
+        ],
+        "sensitivity": [
+            0.7599745892816178
+        ],
+        "specificity": [
+            0.9883798193245248
+        ],
+        "iou": [
+            0.5738517642021179
+        ],
+        "dice_score": [
+            0.6446705460548401
+        ],
+        "dice_ce": [
+            1.5440144538879395
+        ]
+    },
+    "130_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/130_t2-1-25.nrrd"
+        ],
+        "sensitivity": [
+            0.7832324551342004
+        ],
+        "specificity": [
+            0.9878095580095477
+        ],
+        "iou": [
+            0.5843899250030518
+        ],
+        "dice_score": [
+            0.6592483520507812
+        ],
+        "dice_ce": [
+            1.5432534217834473
+        ]
+    },
+    "131_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/131_t2-0-23.nrrd"
+        ],
+        "sensitivity": [
+            0.740054268419954
+        ],
+        "specificity": [
+            0.9815987892093795
+        ],
+        "iou": [
+            0.466704398393631
+        ],
+        "dice_score": [
+            0.46838900446891785
+        ],
+        "dice_ce": [
+            1.5711679458618164
+        ]
+    },
+    "132_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/132_t1-0-14.nrrd"
+        ],
+        "sensitivity": [
+            0.9092510375446385
+        ],
+        "specificity": [
+            0.9776422159822259
+        ],
+        "iou": [
+            0.6029666066169739
+        ],
+        "dice_score": [
+            0.6299645304679871
+        ],
+        "dice_ce": [
+            1.5109260082244873
+        ]
+    },
+    "133_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/133_t1-6-30.nrrd"
+        ],
+        "sensitivity": [
+            0.5502351432235998
+        ],
+        "specificity": [
+            0.9917829853650827
+        ],
+        "iou": [
+            0.3215389847755432
+        ],
+        "dice_score": [
+            0.36016443371772766
+        ],
+        "dice_ce": [
+            1.6435236930847168
+        ]
+    },
+    "133_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/133_t2-6-30.nrrd"
+        ],
+        "sensitivity": [
+            0.3504168448054724
+        ],
+        "specificity": [
+            0.9921200873254602
+        ],
+        "iou": [
+            0.20832405984401703
+        ],
+        "dice_score": [
+            0.25557005405426025
+        ],
+        "dice_ce": [
+            1.647735595703125
+        ]
+    },
+    "134_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/134_t2-2-17.nrrd"
+        ],
+        "sensitivity": [
+            0.7483919788119561
+        ],
+        "specificity": [
+            0.9854942285526668
+        ],
+        "iou": [
+            0.5240162014961243
+        ],
+        "dice_score": [
+            0.5474700331687927
+        ],
+        "dice_ce": [
+            1.5543156862258911
+        ]
+    },
+    "136_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/136_t1-0-16.nrrd"
+        ],
+        "sensitivity": [
+            0.8615966531033297
+        ],
+        "specificity": [
+            0.9892446347657222
+        ],
+        "iou": [
+            0.7421631813049316
+        ],
+        "dice_score": [
+            0.7903485894203186
+        ],
+        "dice_ce": [
+            1.4273114204406738
+        ]
+    },
+    "136_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/136_t2-0-16.nrrd"
+        ],
+        "sensitivity": [
+            0.8423405352742277
+        ],
+        "specificity": [
+            0.9855513082247136
+        ],
+        "iou": [
+            0.6926076412200928
+        ],
+        "dice_score": [
+            0.7652258276939392
+        ],
+        "dice_ce": [
+            1.4320008754730225
+        ]
+    },
+    "136_t2_SPACE.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/136_t2_SPACE-9-112.nrrd"
+        ],
+        "sensitivity": [
+            0.8529356499998083
+        ],
+        "specificity": [
+            0.9928593080636409
+        ],
+        "iou": [
+            0.7231390476226807
+        ],
+        "dice_score": [
+            0.5675592422485352
+        ],
+        "dice_ce": [
+            1.5307620763778687
+        ]
+    },
+    "137_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/137_t1-5-29.nrrd"
+        ],
+        "sensitivity": [
+            0.8354879923774876
+        ],
+        "specificity": [
+            0.9873384410832415
+        ],
+        "iou": [
+            0.5815885066986084
+        ],
+        "dice_score": [
+            0.5444351434707642
+        ],
+        "dice_ce": [
+            1.56815505027771
+        ]
+    },
+    "137_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/137_t2-5-29.nrrd"
+        ],
+        "sensitivity": [
+            0.7767166894042746
+        ],
+        "specificity": [
+            0.9844732609355108
+        ],
+        "iou": [
+            0.5058885216712952
+        ],
+        "dice_score": [
+            0.49243369698524475
+        ],
+        "dice_ce": [
+            1.5731699466705322
+        ]
+    },
+    "138_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/138_t1-1-17.nrrd"
+        ],
+        "sensitivity": [
+            0.8247789945903153
+        ],
+        "specificity": [
+            0.9871550068434154
+        ],
+        "iou": [
+            0.6043233871459961
+        ],
+        "dice_score": [
+            0.5569888353347778
+        ],
+        "dice_ce": [
+            1.5439872741699219
+        ]
+    },
+    "138_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/138_t2-1-16.nrrd"
+        ],
+        "sensitivity": [
+            0.772530158479855
+        ],
+        "specificity": [
+            0.9836303235836351
+        ],
+        "iou": [
+            0.5384404063224792
+        ],
+        "dice_score": [
+            0.49782344698905945
+        ],
+        "dice_ce": [
+            1.5399725437164307
+        ]
+    },
+    "142_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/142_t1-0-19.nrrd"
+        ],
+        "sensitivity": [
+            0.8170030564569336
+        ],
+        "specificity": [
+            0.9757022316290739
+        ],
+        "iou": [
+            0.5816972255706787
+        ],
+        "dice_score": [
+            0.5885785818099976
+        ],
+        "dice_ce": [
+            1.4650428295135498
+        ]
+    },
+    "142_t2_SPACE.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/142_t2_SPACE-24-98.nrrd"
+        ],
+        "sensitivity": [
+            0.7852557669487198
+        ],
+        "specificity": [
+            0.9702475227321752
+        ],
+        "iou": [
+            0.5287224054336548
+        ],
+        "dice_score": [
+            0.5152617692947388
+        ],
+        "dice_ce": [
+            1.4708300828933716
+        ]
+    },
+    "142_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/142_t2-0-19.nrrd"
+        ],
+        "sensitivity": [
+            0.695983519368781
+        ],
+        "specificity": [
+            0.9702964371414637
+        ],
+        "iou": [
+            0.4656924605369568
+        ],
+        "dice_score": [
+            0.4728374481201172
+        ],
+        "dice_ce": [
+            1.480503797531128
+        ]
+    },
+    "143_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/143_t1-0-20.nrrd"
+        ],
+        "sensitivity": [
+            0.8124002514871597
+        ],
+        "specificity": [
+            0.987763146657957
+        ],
+        "iou": [
+            0.5823640823364258
+        ],
+        "dice_score": [
+            0.49744266271591187
+        ],
+        "dice_ce": [
+            1.5606067180633545
+        ]
+    },
+    "143_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/143_t2-0-19.nrrd"
+        ],
+        "sensitivity": [
+            0.732476882896873
+        ],
+        "specificity": [
+            0.9851650227602646
+        ],
+        "iou": [
+            0.5077224373817444
+        ],
+        "dice_score": [
+            0.4600773751735687
+        ],
+        "dice_ce": [
+            1.556274652481079
+        ]
+    },
+    "144_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/144_t1-0-23.nrrd"
+        ],
+        "sensitivity": [
+            0.9254631549841007
+        ],
+        "specificity": [
+            0.9838429042904291
+        ],
+        "iou": [
+            0.6503485441207886
+        ],
+        "dice_score": [
+            0.566476583480835
+        ],
+        "dice_ce": [
+            1.534611463546753
+        ]
+    },
+    "144_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/144_t2-0-23.nrrd"
+        ],
+        "sensitivity": [
+            0.8672577077284668
+        ],
+        "specificity": [
+            0.9804198019801981
+        ],
+        "iou": [
+            0.5733365416526794
+        ],
+        "dice_score": [
+            0.505167543888092
+        ],
+        "dice_ce": [
+            1.5412038564682007
+        ]
+    },
+    "146_t2_SPACE.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/146_t2_SPACE-12-118.nrrd"
+        ],
+        "sensitivity": [
+            0.8258552445575347
+        ],
+        "specificity": [
+            0.9782751276004642
+        ],
+        "iou": [
+            0.48690658807754517
+        ],
+        "dice_score": [
+            0.47198033332824707
+        ],
+        "dice_ce": [
+            1.567741870880127
+        ]
+    },
+    "146_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/146_t2-2-25.nrrd"
+        ],
+        "sensitivity": [
+            0.6866557850164408
+        ],
+        "specificity": [
+            0.9826583326309902
+        ],
+        "iou": [
+            0.4218059778213501
+        ],
+        "dice_score": [
+            0.5011202692985535
+        ],
+        "dice_ce": [
+            1.5797405242919922
+        ]
+    },
+    "147_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/147_t2-0-15.nrrd"
+        ],
+        "sensitivity": [
+            0.6821285613374146
+        ],
+        "specificity": [
+            0.9905056179775281
+        ],
+        "iou": [
+            0.5314499139785767
+        ],
+        "dice_score": [
+            0.5298958420753479
+        ],
+        "dice_ce": [
+            1.5552797317504883
+        ]
+    },
+    "149_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/149_t1-1-24.nrrd"
+        ],
+        "sensitivity": [
+            0.791632183908046
+        ],
+        "specificity": [
+            0.9814020730185882
+        ],
+        "iou": [
+            0.47865670919418335
+        ],
+        "dice_score": [
+            0.48145192861557007
+        ],
+        "dice_ce": [
+            1.5783230066299438
+        ]
+    },
+    "149_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/149_t2-1-24.nrrd"
+        ],
+        "sensitivity": [
+            0.49528735632183907
+        ],
+        "specificity": [
+            0.9790076136223946
+        ],
+        "iou": [
+            0.28496792912483215
+        ],
+        "dice_score": [
+            0.32485002279281616
+        ],
+        "dice_ce": [
+            1.5933879613876343
+        ]
+    },
+    "152_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/152_t1-0-18.nrrd"
+        ],
+        "sensitivity": [
+            0.8085700831894522
+        ],
+        "specificity": [
+            0.9798573646140329
+        ],
+        "iou": [
+            0.5886775851249695
+        ],
+        "dice_score": [
+            0.6945493221282959
+        ],
+        "dice_ce": [
+            1.4779505729675293
+        ]
+    },
+    "152_t2_SPACE.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/152_t2_SPACE-0-119.nrrd"
+        ],
+        "sensitivity": [
+            0.8300312652905516
+        ],
+        "specificity": [
+            0.9867154793328434
+        ],
+        "iou": [
+            0.5845598578453064
+        ],
+        "dice_score": [
+            0.5846909880638123
+        ],
+        "dice_ce": [
+            1.5586833953857422
+        ]
+    },
+    "152_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/152_t2-0-18.nrrd"
+        ],
+        "sensitivity": [
+            0.834829697064825
+        ],
+        "specificity": [
+            0.9809119794426284
+        ],
+        "iou": [
+            0.6165750622749329
+        ],
+        "dice_score": [
+            0.7242482900619507
+        ],
+        "dice_ce": [
+            1.47526216506958
+        ]
+    },
+    "154_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/154_t1-0-14.nrrd"
+        ],
+        "sensitivity": [
+            0.9047057511194684
+        ],
+        "specificity": [
+            0.9719598342690922
+        ],
+        "iou": [
+            0.6410827040672302
+        ],
+        "dice_score": [
+            0.7284623384475708
+        ],
+        "dice_ce": [
+            1.430192470550537
+        ]
+    },
+    "154_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/154_t2-0-14.nrrd"
+        ],
+        "sensitivity": [
+            0.8351632591270537
+        ],
+        "specificity": [
+            0.9698898278471825
+        ],
+        "iou": [
+            0.5793418288230896
+        ],
+        "dice_score": [
+            0.663587749004364
+        ],
+        "dice_ce": [
+            1.43886399269104
+        ]
+    },
+    "155_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/155_t1-0-14.nrrd"
+        ],
+        "sensitivity": [
+            0.9091970072734094
+        ],
+        "specificity": [
+            0.9738272640063654
+        ],
+        "iou": [
+            0.6021033525466919
+        ],
+        "dice_score": [
+            0.5794531106948853
+        ],
+        "dice_ce": [
+            1.4951366186141968
+        ]
+    },
+    "155_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/155_t2-0-14.nrrd"
+        ],
+        "sensitivity": [
+            0.8960348962209542
+        ],
+        "specificity": [
+            0.973906242644447
+        ],
+        "iou": [
+            0.5956900119781494
+        ],
+        "dice_score": [
+            0.5783873796463013
+        ],
+        "dice_ce": [
+            1.4949618577957153
+        ]
+    },
+    "156_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/156_t1-2-27.nrrd"
+        ],
+        "sensitivity": [
+            0.6422777210015329
+        ],
+        "specificity": [
+            0.9839536907059718
+        ],
+        "iou": [
+            0.4521307051181793
+        ],
+        "dice_score": [
+            0.4728437662124634
+        ],
+        "dice_ce": [
+            1.5470335483551025
+        ]
+    },
+    "156_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/156_t2-2-27.nrrd"
+        ],
+        "sensitivity": [
+            0.5765846153846154
+        ],
+        "specificity": [
+            0.9844154988358301
+        ],
+        "iou": [
+            0.41392943263053894
+        ],
+        "dice_score": [
+            0.4453313946723938
+        ],
+        "dice_ce": [
+            1.5460927486419678
+        ]
+    },
+    "159_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/159_t2-1-19.nrrd"
+        ],
+        "sensitivity": [
+            0.6763674415973754
+        ],
+        "specificity": [
+            0.9878569314926279
+        ],
+        "iou": [
+            0.47783172130584717
+        ],
+        "dice_score": [
+            0.49891898036003113
+        ],
+        "dice_ce": [
+            1.5735063552856445
+        ]
+    },
+    "160_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/160_t1-7-35.nrrd"
+        ],
+        "sensitivity": [
+            0.7709303690946808
+        ],
+        "specificity": [
+            0.9890015712813459
+        ],
+        "iou": [
+            0.5514214634895325
+        ],
+        "dice_score": [
+            0.6442822813987732
+        ],
+        "dice_ce": [
+            1.569727897644043
+        ]
+    },
+    "161_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/161_t2-0-18.nrrd"
+        ],
+        "sensitivity": [
+            0.8175974530961407
+        ],
+        "specificity": [
+            0.9859255577493276
+        ],
+        "iou": [
+            0.6819679141044617
+        ],
+        "dice_score": [
+            0.7135933637619019
+        ],
+        "dice_ce": [
+            1.4252878427505493
+        ]
+    },
+    "161_t2_SPACE.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/161_t2_SPACE-3-115.nrrd"
+        ],
+        "sensitivity": [
+            0.837737924391379
+        ],
+        "specificity": [
+            0.9908953935991491
+        ],
+        "iou": [
+            0.6921676993370056
+        ],
+        "dice_score": [
+            0.5445325970649719
+        ],
+        "dice_ce": [
+            1.5226916074752808
+        ]
+    },
+    "163_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/163_t1-1-19.nrrd"
+        ],
+        "sensitivity": [
+            0.8264917337574131
+        ],
+        "specificity": [
+            0.9864041264163569
+        ],
+        "iou": [
+            0.5341526865959167
+        ],
+        "dice_score": [
+            0.48808735609054565
+        ],
+        "dice_ce": [
+            1.5850796699523926
+        ]
+    },
+    "163_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/163_t2-1-18.nrrd"
+        ],
+        "sensitivity": [
+            0.7994851646118412
+        ],
+        "specificity": [
+            0.979236151927966
+        ],
+        "iou": [
+            0.44198107719421387
+        ],
+        "dice_score": [
+            0.45140042901039124
+        ],
+        "dice_ce": [
+            1.5869600772857666
+        ]
+    },
+    "165_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/165_t1-0-14.nrrd"
+        ],
+        "sensitivity": [
+            0.8562042331226803
+        ],
+        "specificity": [
+            0.9812256153964468
+        ],
+        "iou": [
+            0.6638365983963013
+        ],
+        "dice_score": [
+            0.6855183243751526
+        ],
+        "dice_ce": [
+            1.444868803024292
+        ]
+    },
+    "165_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/165_t2-0-14.nrrd"
+        ],
+        "sensitivity": [
+            0.8394432728806411
+        ],
+        "specificity": [
+            0.9745465567541528
+        ],
+        "iou": [
+            0.6010291576385498
+        ],
+        "dice_score": [
+            0.6552988886833191
+        ],
+        "dice_ce": [
+            1.4533681869506836
+        ]
+    },
+    "166_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/166_t2-0-16.nrrd"
+        ],
+        "sensitivity": [
+            0.9008629581241835
+        ],
+        "specificity": [
+            0.9803738848798227
+        ],
+        "iou": [
+            0.6642288565635681
+        ],
+        "dice_score": [
+            0.7378817200660706
+        ],
+        "dice_ce": [
+            1.465763807296753
+        ]
+    },
+    "166_t2_SPACE.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/166_t2_SPACE-10-106.nrrd"
+        ],
+        "sensitivity": [
+            0.8917890056962905
+        ],
+        "specificity": [
+            0.9838016616669886
+        ],
+        "iou": [
+            0.6105293035507202
+        ],
+        "dice_score": [
+            0.5098404288291931
+        ],
+        "dice_ce": [
+            1.5474165678024292
+        ]
+    },
+    "167_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/167_t1-0-23.nrrd"
+        ],
+        "sensitivity": [
+            0.7972030466812936
+        ],
+        "specificity": [
+            0.9800343221894999
+        ],
+        "iou": [
+            0.517598032951355
+        ],
+        "dice_score": [
+            0.4343668222427368
+        ],
+        "dice_ce": [
+            1.5490418672561646
+        ]
+    },
+    "168_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/168_t1-1-24.nrrd"
+        ],
+        "sensitivity": [
+            0.7782695243801094
+        ],
+        "specificity": [
+            0.9875867863240334
+        ],
+        "iou": [
+            0.570194661617279
+        ],
+        "dice_score": [
+            0.5597674250602722
+        ],
+        "dice_ce": [
+            1.5533432960510254
+        ]
+    },
+    "168_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/168_t2-1-24.nrrd"
+        ],
+        "sensitivity": [
+            0.7258179850414549
+        ],
+        "specificity": [
+            0.9887642074496374
+        ],
+        "iou": [
+            0.5456024408340454
+        ],
+        "dice_score": [
+            0.5674272775650024
+        ],
+        "dice_ce": [
+            1.5555437803268433
+        ]
+    },
+    "169_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/169_t1-5-27.nrrd"
+        ],
+        "sensitivity": [
+            0.7175475011975092
+        ],
+        "specificity": [
+            0.9844998747143001
+        ],
+        "iou": [
+            0.5285628437995911
+        ],
+        "dice_score": [
+            0.555919885635376
+        ],
+        "dice_ce": [
+            1.5210721492767334
+        ]
+    },
+    "169_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/169_t2-5-27.nrrd"
+        ],
+        "sensitivity": [
+            0.7112246527223376
+        ],
+        "specificity": [
+            0.9825742127420402
+        ],
+        "iou": [
+            0.5073059797286987
+        ],
+        "dice_score": [
+            0.5169267058372498
+        ],
+        "dice_ce": [
+            1.5234508514404297
+        ]
+    },
+    "170_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/170_t1-0-23.nrrd"
+        ],
+        "sensitivity": [
+            0.8466202404462461
+        ],
+        "specificity": [
+            0.9842073791298218
+        ],
+        "iou": [
+            0.5985254645347595
+        ],
+        "dice_score": [
+            0.5518579483032227
+        ],
+        "dice_ce": [
+            1.5352346897125244
+        ]
+    },
+    "170_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/170_t2-0-23.nrrd"
+        ],
+        "sensitivity": [
+            0.7796660083844368
+        ],
+        "specificity": [
+            0.9805232262671782
+        ],
+        "iou": [
+            0.5159223079681396
+        ],
+        "dice_score": [
+            0.502642035484314
+        ],
+        "dice_ce": [
+            1.5415737628936768
+        ]
+    },
+    "171_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/171_t1-0-14.nrrd"
+        ],
+        "sensitivity": [
+            0.7364645419179843
+        ],
+        "specificity": [
+            0.9805793299259333
+        ],
+        "iou": [
+            0.5573938488960266
+        ],
+        "dice_score": [
+            0.6040992140769958
+        ],
+        "dice_ce": [
+            1.4697555303573608
+        ]
+    },
+    "172_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/172_t1-2-25.nrrd"
+        ],
+        "sensitivity": [
+            0.8358488797225087
+        ],
+        "specificity": [
+            0.9902197664555512
+        ],
+        "iou": [
+            0.5682479739189148
+        ],
+        "dice_score": [
+            0.47896453738212585
+        ],
+        "dice_ce": [
+            1.5992634296417236
+        ]
+    },
+    "172_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/172_t2-2-25.nrrd"
+        ],
+        "sensitivity": [
+            0.8282241179963126
+        ],
+        "specificity": [
+            0.9879210546297756
+        ],
+        "iou": [
+            0.5236599445343018
+        ],
+        "dice_score": [
+            0.4399101734161377
+        ],
+        "dice_ce": [
+            1.6012064218521118
+        ]
+    },
+    "173_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/173_t1-0-14.nrrd"
+        ],
+        "sensitivity": [
+            0.9209841129744042
+        ],
+        "specificity": [
+            0.975988568016039
+        ],
+        "iou": [
+            0.6152927875518799
+        ],
+        "dice_score": [
+            0.6275747418403625
+        ],
+        "dice_ce": [
+            1.4985078573226929
+        ]
+    },
+    "173_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/173_t2-0-14.nrrd"
+        ],
+        "sensitivity": [
+            0.8526896490606168
+        ],
+        "specificity": [
+            0.9770157713369385
+        ],
+        "iou": [
+            0.5770770311355591
+        ],
+        "dice_score": [
+            0.5857768654823303
+        ],
+        "dice_ce": [
+            1.5036853551864624
+        ]
+    },
+    "174_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/174_t1-3-28.nrrd"
+        ],
+        "sensitivity": [
+            0.6918687589158345
+        ],
+        "specificity": [
+            0.9936614918411597
+        ],
+        "iou": [
+            0.4481256604194641
+        ],
+        "dice_score": [
+            0.4543488025665283
+        ],
+        "dice_ce": [
+            1.6392016410827637
+        ]
+    },
+    "174_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/174_t2-3-28.nrrd"
+        ],
+        "sensitivity": [
+            0.14199103321785206
+        ],
+        "specificity": [
+            0.9951060019901348
+        ],
+        "iou": [
+            0.0999964103102684
+        ],
+        "dice_score": [
+            0.18868154287338257
+        ],
+        "dice_ce": [
+            1.650484561920166
+        ]
+    },
+    "175_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/175_t1-2-24.nrrd"
+        ],
+        "sensitivity": [
+            0.8317381701358677
+        ],
+        "specificity": [
+            0.9852362897904623
+        ],
+        "iou": [
+            0.5613340139389038
+        ],
+        "dice_score": [
+            0.5271622538566589
+        ],
+        "dice_ce": [
+            1.564042091369629
+        ]
+    },
+    "175_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/175_t2-2-24.nrrd"
+        ],
+        "sensitivity": [
+            0.8280347143207728
+        ],
+        "specificity": [
+            0.9836780045196427
+        ],
+        "iou": [
+            0.5402946472167969
+        ],
+        "dice_score": [
+            0.5144999623298645
+        ],
+        "dice_ce": [
+            1.5655940771102905
+        ]
+    },
+    "177_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/177_t1-0-20.nrrd"
+        ],
+        "sensitivity": [
+            0.8691007115815346
+        ],
+        "specificity": [
+            0.982836088263357
+        ],
+        "iou": [
+            0.5989454388618469
+        ],
+        "dice_score": [
+            0.6318862438201904
+        ],
+        "dice_ce": [
+            1.529902696609497
+        ]
+    },
+    "177_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/177_t2-0-20.nrrd"
+        ],
+        "sensitivity": [
+            0.8734019147291431
+        ],
+        "specificity": [
+            0.9828738012000257
+        ],
+        "iou": [
+            0.6023210287094116
+        ],
+        "dice_score": [
+            0.6375154256820679
+        ],
+        "dice_ce": [
+            1.5298659801483154
+        ]
+    },
+    "177_t2_SPACE.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/177_t2_SPACE-2-112.nrrd"
+        ],
+        "sensitivity": [
+            0.858500974784155
+        ],
+        "specificity": [
+            0.9891022417713397
+        ],
+        "iou": [
+            0.6072726249694824
+        ],
+        "dice_score": [
+            0.5044621229171753
+        ],
+        "dice_ce": [
+            1.5781680345535278
+        ]
+    },
+    "179_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/179_t1-0-16.nrrd"
+        ],
+        "sensitivity": [
+            0.910143981726965
+        ],
+        "specificity": [
+            0.9700728741515394
+        ],
+        "iou": [
+            0.6394184827804565
+        ],
+        "dice_score": [
+            0.6443473696708679
+        ],
+        "dice_ce": [
+            1.4350452423095703
+        ]
+    },
+    "179_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/179_t2-0-16.nrrd"
+        ],
+        "sensitivity": [
+            0.8436459055621269
+        ],
+        "specificity": [
+            0.9678298533195074
+        ],
+        "iou": [
+            0.5797750353813171
+        ],
+        "dice_score": [
+            0.6089056730270386
+        ],
+        "dice_ce": [
+            1.4435211420059204
+        ]
+    },
+    "181_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/181_t1-1-17.nrrd"
+        ],
+        "sensitivity": [
+            0.7772196174741386
+        ],
+        "specificity": [
+            0.9896333645439177
+        ],
+        "iou": [
+            0.5475685000419617
+        ],
+        "dice_score": [
+            0.4739241302013397
+        ],
+        "dice_ce": [
+            1.5849354267120361
+        ]
+    },
+    "181_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/181_t2-1-17.nrrd"
+        ],
+        "sensitivity": [
+            0.5871599564744288
+        ],
+        "specificity": [
+            0.9889436431905434
+        ],
+        "iou": [
+            0.3849995732307434
+        ],
+        "dice_score": [
+            0.33058592677116394
+        ],
+        "dice_ce": [
+            1.6071271896362305
+        ]
+    },
+    "182_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/182_t1-0-14.nrrd"
+        ],
+        "sensitivity": [
+            0.7931766316750343
+        ],
+        "specificity": [
+            0.9819371393283789
+        ],
+        "iou": [
+            0.5718022584915161
+        ],
+        "dice_score": [
+            0.5527706146240234
+        ],
+        "dice_ce": [
+            1.5114424228668213
+        ]
+    },
+    "182_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/182_t2-0-14.nrrd"
+        ],
+        "sensitivity": [
+            0.7480421891267938
+        ],
+        "specificity": [
+            0.9833957850921012
+        ],
+        "iou": [
+            0.5529437065124512
+        ],
+        "dice_score": [
+            0.557988703250885
+        ],
+        "dice_ce": [
+            1.5121203660964966
+        ]
+    },
+    "183_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/183_t2-0-15.nrrd"
+        ],
+        "sensitivity": [
+            0.7656335916020994
+        ],
+        "specificity": [
+            0.9838067117075134
+        ],
+        "iou": [
+            0.5436974167823792
+        ],
+        "dice_score": [
+            0.5480677485466003
+        ],
+        "dice_ce": [
+            1.5366263389587402
+        ]
+    },
+    "184_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/184_t2-2-18.nrrd"
+        ],
+        "sensitivity": [
+            0.23338545738858482
+        ],
+        "specificity": [
+            0.9932967463022837
+        ],
+        "iou": [
+            0.1718294620513916
+        ],
+        "dice_score": [
+            0.2335999757051468
+        ],
+        "dice_ce": [
+            1.623950481414795
+        ]
+    },
+    "185_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/185_t1-0-16.nrrd"
+        ],
+        "sensitivity": [
+            0.9073421118322517
+        ],
+        "specificity": [
+            0.9823640782616646
+        ],
+        "iou": [
+            0.7039605975151062
+        ],
+        "dice_score": [
+            0.7737172842025757
+        ],
+        "dice_ce": [
+            1.4432618618011475
+        ]
+    },
+    "185_t2_SPACE.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/185_t2_SPACE-0-119.nrrd"
+        ],
+        "sensitivity": [
+            0.9024067058784435
+        ],
+        "specificity": [
+            0.9896099940500364
+        ],
+        "iou": [
+            0.6790028810501099
+        ],
+        "dice_score": [
+            0.5346269607543945
+        ],
+        "dice_ce": [
+            1.5598175525665283
+        ]
+    },
+    "185_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/185_t2-0-16.nrrd"
+        ],
+        "sensitivity": [
+            0.9031920868696954
+        ],
+        "specificity": [
+            0.980387917898394
+        ],
+        "iou": [
+            0.6835716366767883
+        ],
+        "dice_score": [
+            0.7673699259757996
+        ],
+        "dice_ce": [
+            1.4454222917556763
+        ]
+    },
+    "186_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/186_t1-6-33.nrrd"
+        ],
+        "sensitivity": [
+            0.43545956805625313
+        ],
+        "specificity": [
+            0.995836991336826
+        ],
+        "iou": [
+            0.22273603081703186
+        ],
+        "dice_score": [
+            0.30536338686943054
+        ],
+        "dice_ce": [
+            1.6748247146606445
+        ]
+    },
+    "187_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/187_t1-2-18.nrrd"
+        ],
+        "sensitivity": [
+            0.7773920406435224
+        ],
+        "specificity": [
+            0.9907032788869611
+        ],
+        "iou": [
+            0.5439303517341614
+        ],
+        "dice_score": [
+            0.48671817779541016
+        ],
+        "dice_ce": [
+            1.596157431602478
+        ]
+    },
+    "187_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/187_t2-2-18.nrrd"
+        ],
+        "sensitivity": [
+            0.4115500754906895
+        ],
+        "specificity": [
+            0.9886339872398346
+        ],
+        "iou": [
+            0.27080804109573364
+        ],
+        "dice_score": [
+            0.3017522394657135
+        ],
+        "dice_ce": [
+            1.6103615760803223
+        ]
+    },
+    "188_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/188_t1-0-24.nrrd"
+        ],
+        "sensitivity": [
+            0.7911091381825099
+        ],
+        "specificity": [
+            0.9771141289658427
+        ],
+        "iou": [
+            0.6007788181304932
+        ],
+        "dice_score": [
+            0.5745333433151245
+        ],
+        "dice_ce": [
+            1.441362738609314
+        ]
+    },
+    "188_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/188_t2-0-24.nrrd"
+        ],
+        "sensitivity": [
+            0.6242990315537719
+        ],
+        "specificity": [
+            0.9757869186010365
+        ],
+        "iou": [
+            0.4675772190093994
+        ],
+        "dice_score": [
+            0.45822516083717346
+        ],
+        "dice_ce": [
+            1.4585373401641846
+        ]
+    },
+    "189_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/189_t1-1-17.nrrd"
+        ],
+        "sensitivity": [
+            0.8371358371358372
+        ],
+        "specificity": [
+            0.9869079661244891
+        ],
+        "iou": [
+            0.5585087537765503
+        ],
+        "dice_score": [
+            0.5001322031021118
+        ],
+        "dice_ce": [
+            1.5781166553497314
+        ]
+    },
+    "189_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/189_t2-1-16.nrrd"
+        ],
+        "sensitivity": [
+            0.7350025724575544
+        ],
+        "specificity": [
+            0.9859871436825414
+        ],
+        "iou": [
+            0.4933010935783386
+        ],
+        "dice_score": [
+            0.47555840015411377
+        ],
+        "dice_ce": [
+            1.5733380317687988
+        ]
+    },
+    "190_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/190_t1-0-14.nrrd"
+        ],
+        "sensitivity": [
+            0.8974441928178583
+        ],
+        "specificity": [
+            0.9840891680953048
+        ],
+        "iou": [
+            0.6214537620544434
+        ],
+        "dice_score": [
+            0.5763475894927979
+        ],
+        "dice_ce": [
+            1.541009783744812
+        ]
+    },
+    "190_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/190_t2-0-14.nrrd"
+        ],
+        "sensitivity": [
+            0.4483245980802073
+        ],
+        "specificity": [
+            0.9888017633956324
+        ],
+        "iou": [
+            0.3414666950702667
+        ],
+        "dice_score": [
+            0.4389331340789795
+        ],
+        "dice_ce": [
+            1.5622074604034424
+        ]
+    },
+    "191_t2_SPACE.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/191_t2_SPACE-8-115.nrrd"
+        ],
+        "sensitivity": [
+            0.6681966285558201
+        ],
+        "specificity": [
+            0.9822459955605167
+        ],
+        "iou": [
+            0.41888532042503357
+        ],
+        "dice_score": [
+            0.4080468416213989
+        ],
+        "dice_ce": [
+            1.5806396007537842
+        ]
+    },
+    "191_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/191_t2-0-17.nrrd"
+        ],
+        "sensitivity": [
+            0.5365283032662536
+        ],
+        "specificity": [
+            0.9852045047856013
+        ],
+        "iou": [
+            0.41137972474098206
+        ],
+        "dice_score": [
+            0.5115320682525635
+        ],
+        "dice_ce": [
+            1.5149126052856445
+        ]
+    },
+    "192_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/192_t2-0-23.nrrd"
+        ],
+        "sensitivity": [
+            0.8275780868921669
+        ],
+        "specificity": [
+            0.9838147073068717
+        ],
+        "iou": [
+            0.5861009359359741
+        ],
+        "dice_score": [
+            0.5453639626502991
+        ],
+        "dice_ce": [
+            1.5356419086456299
+        ]
+    },
+    "193_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/193_t1-5-27.nrrd"
+        ],
+        "sensitivity": [
+            0.7403123192596877
+        ],
+        "specificity": [
+            0.993230219833692
+        ],
+        "iou": [
+            0.5435100197792053
+        ],
+        "dice_score": [
+            0.4936073124408722
+        ],
+        "dice_ce": [
+            1.6079051494598389
+        ]
+    },
+    "195_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/195_t2-1-24.nrrd"
+        ],
+        "sensitivity": [
+            0.7744645685558846
+        ],
+        "specificity": [
+            0.9747270230660557
+        ],
+        "iou": [
+            0.4667988121509552
+        ],
+        "dice_score": [
+            0.4127956032752991
+        ],
+        "dice_ce": [
+            1.5502653121948242
+        ]
+    },
+    "196_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/196_t1-3-28.nrrd"
+        ],
+        "sensitivity": [
+            0.6561189197144749
+        ],
+        "specificity": [
+            0.9883301095679393
+        ],
+        "iou": [
+            0.44449615478515625
+        ],
+        "dice_score": [
+            0.44513964653015137
+        ],
+        "dice_ce": [
+            1.591120958328247
+        ]
+    },
+    "196_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/196_t2-3-28.nrrd"
+        ],
+        "sensitivity": [
+            0.24127357912036695
+        ],
+        "specificity": [
+            0.9891724773609898
+        ],
+        "iou": [
+            0.16735006868839264
+        ],
+        "dice_score": [
+            0.2394457906484604
+        ],
+        "dice_ce": [
+            1.607703447341919
+        ]
+    },
+    "198_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/198_t1-2-27.nrrd"
+        ],
+        "sensitivity": [
+            0.8178386180860683
+        ],
+        "specificity": [
+            0.9865603668246498
+        ],
+        "iou": [
+            0.6058921813964844
+        ],
+        "dice_score": [
+            0.6396762132644653
+        ],
+        "dice_ce": [
+            1.5323865413665771
+        ]
+    },
+    "198_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/198_t2-2-27.nrrd"
+        ],
+        "sensitivity": [
+            0.8053867994860651
+        ],
+        "specificity": [
+            0.9836259890193937
+        ],
+        "iou": [
+            0.5647140145301819
+        ],
+        "dice_score": [
+            0.5959852337837219
+        ],
+        "dice_ce": [
+            1.5359983444213867
+        ]
+    },
+    "200_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/200_t1-0-16.nrrd"
+        ],
+        "sensitivity": [
+            0.8223602774598874
+        ],
+        "specificity": [
+            0.9784475797982816
+        ],
+        "iou": [
+            0.5342609286308289
+        ],
+        "dice_score": [
+            0.5798587203025818
+        ],
+        "dice_ce": [
+            1.5285439491271973
+        ]
+    },
+    "200_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/200_t2-0-16.nrrd"
+        ],
+        "sensitivity": [
+            0.7220730083845202
+        ],
+        "specificity": [
+            0.9692633681665648
+        ],
+        "iou": [
+            0.4081721603870392
+        ],
+        "dice_score": [
+            0.48582953214645386
+        ],
+        "dice_ce": [
+            1.542029619216919
+        ]
+    },
+    "200_t2_SPACE.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/200_t2_SPACE-13-106.nrrd"
+        ],
+        "sensitivity": [
+            0.7289745337226533
+        ],
+        "specificity": [
+            0.9830410967716239
+        ],
+        "iou": [
+            0.445513516664505
+        ],
+        "dice_score": [
+            0.39581093192100525
+        ],
+        "dice_ce": [
+            1.5870612859725952
+        ]
+    },
+    "201_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/201_t2-0-16.nrrd"
+        ],
+        "sensitivity": [
+            0.7923182377953853
+        ],
+        "specificity": [
+            0.9862661344910487
+        ],
+        "iou": [
+            0.5904895663261414
+        ],
+        "dice_score": [
+            0.5788699388504028
+        ],
+        "dice_ce": [
+            1.5334184169769287
+        ]
+    },
+    "202_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/202_t1-0-24.nrrd"
+        ],
+        "sensitivity": [
+            0.8835326111727261
+        ],
+        "specificity": [
+            0.9816556115781783
+        ],
+        "iou": [
+            0.6142982244491577
+        ],
+        "dice_score": [
+            0.6112593412399292
+        ],
+        "dice_ce": [
+            1.5230660438537598
+        ]
+    },
+    "202_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/202_t2-0-24.nrrd"
+        ],
+        "sensitivity": [
+            0.8807523434770058
+        ],
+        "specificity": [
+            0.9782726336800885
+        ],
+        "iou": [
+            0.5797837972640991
+        ],
+        "dice_score": [
+            0.5910754799842834
+        ],
+        "dice_ce": [
+            1.5264168977737427
+        ]
+    },
+    "203_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/203_t1-1-25.nrrd"
+        ],
+        "sensitivity": [
+            0.8348075316984284
+        ],
+        "specificity": [
+            0.9857477631555713
+        ],
+        "iou": [
+            0.5842011570930481
+        ],
+        "dice_score": [
+            0.5563571453094482
+        ],
+        "dice_ce": [
+            1.5528533458709717
+        ]
+    },
+    "203_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/203_t2-1-25.nrrd"
+        ],
+        "sensitivity": [
+            0.8501442563207046
+        ],
+        "specificity": [
+            0.9804939850515477
+        ],
+        "iou": [
+            0.5356574654579163
+        ],
+        "dice_score": [
+            0.5241278409957886
+        ],
+        "dice_ce": [
+            1.5558693408966064
+        ]
+    },
+    "205_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/205_t1-1-24.nrrd"
+        ],
+        "sensitivity": [
+            0.7965512776243094
+        ],
+        "specificity": [
+            0.9820212927637095
+        ],
+        "iou": [
+            0.5002507567405701
+        ],
+        "dice_score": [
+            0.4875938594341278
+        ],
+        "dice_ce": [
+            1.568730115890503
+        ]
+    },
+    "205_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/205_t2-1-24.nrrd"
+        ],
+        "sensitivity": [
+            0.758179385359116
+        ],
+        "specificity": [
+            0.9807091648499078
+        ],
+        "iou": [
+            0.46356749534606934
+        ],
+        "dice_score": [
+            0.449739545583725
+        ],
+        "dice_ce": [
+            1.571519136428833
+        ]
+    },
+    "207_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/207_t2-8-31.nrrd"
+        ],
+        "sensitivity": [
+            0.7281167108753316
+        ],
+        "specificity": [
+            0.985621286650983
+        ],
+        "iou": [
+            0.46601369976997375
+        ],
+        "dice_score": [
+            0.48489654064178467
+        ],
+        "dice_ce": [
+            1.5862326622009277
+        ]
+    },
+    "209_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/209_t1-1-22.nrrd"
+        ],
+        "sensitivity": [
+            0.6510928896049246
+        ],
+        "specificity": [
+            0.9842908716937877
+        ],
+        "iou": [
+            0.42585283517837524
+        ],
+        "dice_score": [
+            0.4219198226928711
+        ],
+        "dice_ce": [
+            1.5732386112213135
+        ]
+    },
+    "209_t2_SPACE.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/209_t2_SPACE-22-123.nrrd"
+        ],
+        "sensitivity": [
+            0.7054634849319713
+        ],
+        "specificity": [
+            0.9737739162141639
+        ],
+        "iou": [
+            0.3920530080795288
+        ],
+        "dice_score": [
+            0.33404815196990967
+        ],
+        "dice_ce": [
+            1.5732896327972412
+        ]
+    },
+    "210_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/210_t1-0-23.nrrd"
+        ],
+        "sensitivity": [
+            0.8380718829029045
+        ],
+        "specificity": [
+            0.9892922057937695
+        ],
+        "iou": [
+            0.6387943625450134
+        ],
+        "dice_score": [
+            0.5658474564552307
+        ],
+        "dice_ce": [
+            1.5505131483078003
+        ]
+    },
+    "210_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/210_t2-0-23.nrrd"
+        ],
+        "sensitivity": [
+            0.8351980994712238
+        ],
+        "specificity": [
+            0.9871299981323997
+        ],
+        "iou": [
+            0.6074379682540894
+        ],
+        "dice_score": [
+            0.5397475957870483
+        ],
+        "dice_ce": [
+            1.552416205406189
+        ]
+    },
+    "212_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/212_t2-1-16.nrrd"
+        ],
+        "sensitivity": [
+            0.6497036409822184
+        ],
+        "specificity": [
+            0.9773724616195494
+        ],
+        "iou": [
+            0.394464910030365
+        ],
+        "dice_score": [
+            0.418865829706192
+        ],
+        "dice_ce": [
+            1.5613772869110107
+        ]
+    },
+    "213_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/213_t1-0-23.nrrd"
+        ],
+        "sensitivity": [
+            0.8731784964908472
+        ],
+        "specificity": [
+            0.984436335875629
+        ],
+        "iou": [
+            0.6522716879844666
+        ],
+        "dice_score": [
+            0.6639074087142944
+        ],
+        "dice_ce": [
+            1.5080318450927734
+        ]
+    },
+    "213_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/213_t2-0-23.nrrd"
+        ],
+        "sensitivity": [
+            0.8456551624339773
+        ],
+        "specificity": [
+            0.9865989164487129
+        ],
+        "iou": [
+            0.6547273397445679
+        ],
+        "dice_score": [
+            0.6718429923057556
+        ],
+        "dice_ce": [
+            1.5083473920822144
+        ]
+    },
+    "214_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/214_t1-0-14.nrrd"
+        ],
+        "sensitivity": [
+            0.8789790854306984
+        ],
+        "specificity": [
+            0.9739551941321852
+        ],
+        "iou": [
+            0.5566630959510803
+        ],
+        "dice_score": [
+            0.564618706703186
+        ],
+        "dice_ce": [
+            1.5135326385498047
+        ]
+    },
+    "214_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/214_t2-0-13.nrrd"
+        ],
+        "sensitivity": [
+            0.45730139074109355
+        ],
+        "specificity": [
+            0.9799408803077514
+        ],
+        "iou": [
+            0.3224468529224396
+        ],
+        "dice_score": [
+            0.3760397136211395
+        ],
+        "dice_ce": [
+            1.526949167251587
+        ]
+    },
+    "215_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/215_t2-1-24.nrrd"
+        ],
+        "sensitivity": [
+            0.7855184681385372
+        ],
+        "specificity": [
+            0.9860118721718678
+        ],
+        "iou": [
+            0.5430712699890137
+        ],
+        "dice_score": [
+            0.5604135990142822
+        ],
+        "dice_ce": [
+            1.5622072219848633
+        ]
+    },
+    "217_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/217_t1-1-19.nrrd"
+        ],
+        "sensitivity": [
+            0.6399637137573706
+        ],
+        "specificity": [
+            0.9901826763653462
+        ],
+        "iou": [
+            0.451728880405426
+        ],
+        "dice_score": [
+            0.37004074454307556
+        ],
+        "dice_ce": [
+            1.5952661037445068
+        ]
+    },
+    "217_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/217_t2-1-18.nrrd"
+        ],
+        "sensitivity": [
+            0.42451378200643625
+        ],
+        "specificity": [
+            0.9916581238163085
+        ],
+        "iou": [
+            0.3177795112133026
+        ],
+        "dice_score": [
+            0.2900215983390808
+        ],
+        "dice_ce": [
+            1.597592830657959
+        ]
+    },
+    "218_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/218_t2-1-26.nrrd"
+        ],
+        "sensitivity": [
+            0.6939950163197979
+        ],
+        "specificity": [
+            0.9824238744345608
+        ],
+        "iou": [
+            0.46021899580955505
+        ],
+        "dice_score": [
+            0.4646678566932678
+        ],
+        "dice_ce": [
+            1.558741569519043
+        ]
+    },
+    "219_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/219_t1-0-14.nrrd"
+        ],
+        "sensitivity": [
+            0.8856132482318441
+        ],
+        "specificity": [
+            0.971514588085226
+        ],
+        "iou": [
+            0.6088519096374512
+        ],
+        "dice_score": [
+            0.6694032549858093
+        ],
+        "dice_ce": [
+            1.45328950881958
+        ]
+    },
+    "220_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/220_t1-0-20.nrrd"
+        ],
+        "sensitivity": [
+            0.896478318443152
+        ],
+        "specificity": [
+            0.9880456965950857
+        ],
+        "iou": [
+            0.7093424201011658
+        ],
+        "dice_score": [
+            0.6973001956939697
+        ],
+        "dice_ce": [
+            1.4998431205749512
+        ]
+    },
+    "220_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/220_t2-0-20.nrrd"
+        ],
+        "sensitivity": [
+            0.9000821334584891
+        ],
+        "specificity": [
+            0.987695551486142
+        ],
+        "iou": [
+            0.7078658938407898
+        ],
+        "dice_score": [
+            0.6960088014602661
+        ],
+        "dice_ce": [
+            1.5001962184906006
+        ]
+    },
+    "220_t2_SPACE.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/220_t2_SPACE-3-115.nrrd"
+        ],
+        "sensitivity": [
+            0.8876867945464633
+        ],
+        "specificity": [
+            0.9914815228188755
+        ],
+        "iou": [
+            0.6943917870521545
+        ],
+        "dice_score": [
+            0.5265012979507446
+        ],
+        "dice_ce": [
+            1.561307668685913
+        ]
+    },
+    "221_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/221_t1-5-28.nrrd"
+        ],
+        "sensitivity": [
+            0.11708828084667011
+        ],
+        "specificity": [
+            0.9969018263423447
+        ],
+        "iou": [
+            0.07805616408586502
+        ],
+        "dice_score": [
+            0.10975140333175659
+        ],
+        "dice_ce": [
+            1.6699267625808716
+        ]
+    },
+    "221_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/221_t2-5-28.nrrd"
+        ],
+        "sensitivity": [
+            0.06907589055240063
+        ],
+        "specificity": [
+            0.9963682981923375
+        ],
+        "iou": [
+            0.04354901611804962
+        ],
+        "dice_score": [
+            0.07657988369464874
+        ],
+        "dice_ce": [
+            1.670876383781433
+        ]
+    },
+    "222_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/222_t1-0-14.nrrd"
+        ],
+        "sensitivity": [
+            0.8859080255762624
+        ],
+        "specificity": [
+            0.9856148432583355
+        ],
+        "iou": [
+            0.677614152431488
+        ],
+        "dice_score": [
+            0.7058331370353699
+        ],
+        "dice_ce": [
+            1.499492883682251
+        ]
+    },
+    "223_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/223_t1-0-23.nrrd"
+        ],
+        "sensitivity": [
+            0.8125567734512202
+        ],
+        "specificity": [
+            0.9893789006193208
+        ],
+        "iou": [
+            0.6540777087211609
+        ],
+        "dice_score": [
+            0.5247359275817871
+        ],
+        "dice_ce": [
+            1.5182361602783203
+        ]
+    },
+    "223_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/223_t2-0-23.nrrd"
+        ],
+        "sensitivity": [
+            0.8134802882577363
+        ],
+        "specificity": [
+            0.9863725534439598
+        ],
+        "iou": [
+            0.6205621957778931
+        ],
+        "dice_score": [
+            0.5369994640350342
+        ],
+        "dice_ce": [
+            1.5205169916152954
+        ]
+    },
+    "224_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/224_t2-0-15.nrrd"
+        ],
+        "sensitivity": [
+            0.5415143802981305
+        ],
+        "specificity": [
+            0.9877237867064398
+        ],
+        "iou": [
+            0.4388122260570526
+        ],
+        "dice_score": [
+            0.41536322236061096
+        ],
+        "dice_ce": [
+            1.505824089050293
+        ]
+    },
+    "225_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/225_t1-0-14.nrrd"
+        ],
+        "sensitivity": [
+            0.8878274096609038
+        ],
+        "specificity": [
+            0.9812663862615861
+        ],
+        "iou": [
+            0.6711304783821106
+        ],
+        "dice_score": [
+            0.6738021969795227
+        ],
+        "dice_ce": [
+            1.4662716388702393
+        ]
+    },
+    "225_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/225_t2-0-14.nrrd"
+        ],
+        "sensitivity": [
+            0.8482469328284797
+        ],
+        "specificity": [
+            0.9797452115506106
+        ],
+        "iou": [
+            0.628650426864624
+        ],
+        "dice_score": [
+            0.6380718350410461
+        ],
+        "dice_ce": [
+            1.4710054397583008
+        ]
+    },
+    "227_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/227_t1-5-30.nrrd"
+        ],
+        "sensitivity": [
+            0.4049316502060305
+        ],
+        "specificity": [
+            0.9940218411544864
+        ],
+        "iou": [
+            0.2438937872648239
+        ],
+        "dice_score": [
+            0.2874002754688263
+        ],
+        "dice_ce": [
+            1.6557319164276123
+        ]
+    },
+    "227_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/227_t2-5-30.nrrd"
+        ],
+        "sensitivity": [
+            0.13931584799529073
+        ],
+        "specificity": [
+            0.9935753298350691
+        ],
+        "iou": [
+            0.08149054646492004
+        ],
+        "dice_score": [
+            0.14048776030540466
+        ],
+        "dice_ce": [
+            1.660736083984375
+        ]
+    },
+    "228_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/228_t1-1-25.nrrd"
+        ],
+        "sensitivity": [
+            0.7203835709436525
+        ],
+        "specificity": [
+            0.982796869855902
+        ],
+        "iou": [
+            0.49301910400390625
+        ],
+        "dice_score": [
+            0.5391437411308289
+        ],
+        "dice_ce": [
+            1.5477817058563232
+        ]
+    },
+    "228_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/228_t2-1-25.nrrd"
+        ],
+        "sensitivity": [
+            0.21111676849966055
+        ],
+        "specificity": [
+            0.9844322181983944
+        ],
+        "iou": [
+            0.14895400404930115
+        ],
+        "dice_score": [
+            0.29702383279800415
+        ],
+        "dice_ce": [
+            1.5753655433654785
+        ]
+    },
+    "229_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/229_t1-3-25.nrrd"
+        ],
+        "sensitivity": [
+            0.8494485898789841
+        ],
+        "specificity": [
+            0.9762018588999336
+        ],
+        "iou": [
+            0.5318238139152527
+        ],
+        "dice_score": [
+            0.497345894575119
+        ],
+        "dice_ce": [
+            1.5356674194335938
+        ]
+    },
+    "231_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/231_t1-3-26.nrrd"
+        ],
+        "sensitivity": [
+            0.8142331599644805
+        ],
+        "specificity": [
+            0.9840868525787294
+        ],
+        "iou": [
+            0.5028910636901855
+        ],
+        "dice_score": [
+            0.461773157119751
+        ],
+        "dice_ce": [
+            1.5835145711898804
+        ]
+    },
+    "231_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/231_t2-3-26.nrrd"
+        ],
+        "sensitivity": [
+            0.7680578459977166
+        ],
+        "specificity": [
+            0.981925059131409
+        ],
+        "iou": [
+            0.4509473741054535
+        ],
+        "dice_score": [
+            0.4212498664855957
+        ],
+        "dice_ce": [
+            1.587175726890564
+        ]
+    },
+    "232_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/232_t1-0-23.nrrd"
+        ],
+        "sensitivity": [
+            0.8678182704283316
+        ],
+        "specificity": [
+            0.9874204511081983
+        ],
+        "iou": [
+            0.6454288959503174
+        ],
+        "dice_score": [
+            0.6122785806655884
+        ],
+        "dice_ce": [
+            1.5409938097000122
+        ]
+    },
+    "232_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/232_t2-0-23.nrrd"
+        ],
+        "sensitivity": [
+            0.8470424721575422
+        ],
+        "specificity": [
+            0.9856576404169327
+        ],
+        "iou": [
+            0.608138382434845
+        ],
+        "dice_score": [
+            0.5646238327026367
+        ],
+        "dice_ce": [
+            1.5438936948776245
+        ]
+    },
+    "233_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/233_t1-0-14.nrrd"
+        ],
+        "sensitivity": [
+            0.8782634108325756
+        ],
+        "specificity": [
+            0.9831839318493999
+        ],
+        "iou": [
+            0.5778162479400635
+        ],
+        "dice_score": [
+            0.5259801149368286
+        ],
+        "dice_ce": [
+            1.5581681728363037
+        ]
+    },
+    "233_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/233_t2-0-14.nrrd"
+        ],
+        "sensitivity": [
+            0.8880904161494741
+        ],
+        "specificity": [
+            0.9788540002057903
+        ],
+        "iou": [
+            0.5356819033622742
+        ],
+        "dice_score": [
+            0.5134496688842773
+        ],
+        "dice_ce": [
+            1.5617811679840088
+        ]
+    },
+    "234_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/234_t1-0-16.nrrd"
+        ],
+        "sensitivity": [
+            0.8475469327936352
+        ],
+        "specificity": [
+            0.9864373067271262
+        ],
+        "iou": [
+            0.6779996752738953
+        ],
+        "dice_score": [
+            0.8027371168136597
+        ],
+        "dice_ce": [
+            1.463769555091858
+        ]
+    },
+    "234_t2_SPACE.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/234_t2_SPACE-1-109.nrrd"
+        ],
+        "sensitivity": [
+            0.8502305285321147
+        ],
+        "specificity": [
+            0.9892855826924397
+        ],
+        "iou": [
+            0.637884795665741
+        ],
+        "dice_score": [
+            0.5516535043716431
+        ],
+        "dice_ce": [
+            1.5541527271270752
+        ]
+    },
+    "234_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/234_t2-0-18.nrrd"
+        ],
+        "sensitivity": [
+            0.8600758533501897
+        ],
+        "specificity": [
+            0.985465388380912
+        ],
+        "iou": [
+            0.6664489507675171
+        ],
+        "dice_score": [
+            0.7778000831604004
+        ],
+        "dice_ce": [
+            1.4799799919128418
+        ]
+    },
+    "236_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/236_t1-3-25.nrrd"
+        ],
+        "sensitivity": [
+            0.7495290318239924
+        ],
+        "specificity": [
+            0.9843481071583479
+        ],
+        "iou": [
+            0.5426723957061768
+        ],
+        "dice_score": [
+            0.5429336428642273
+        ],
+        "dice_ce": [
+            1.5303032398223877
+        ]
+    },
+    "237_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/237_t1-0-16.nrrd"
+        ],
+        "sensitivity": [
+            0.8472170027976116
+        ],
+        "specificity": [
+            0.9877311924913981
+        ],
+        "iou": [
+            0.5436180233955383
+        ],
+        "dice_score": [
+            0.5478164553642273
+        ],
+        "dice_ce": [
+            1.5946722030639648
+        ]
+    },
+    "237_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/237_t2-0-16.nrrd"
+        ],
+        "sensitivity": [
+            0.4427105065509472
+        ],
+        "specificity": [
+            0.9871017276584971
+        ],
+        "iou": [
+            0.2790122926235199
+        ],
+        "dice_score": [
+            0.37742891907691956
+        ],
+        "dice_ce": [
+            1.6098017692565918
+        ]
+    },
+    "239_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/239_t1-0-16.nrrd"
+        ],
+        "sensitivity": [
+            0.9384623978252369
+        ],
+        "specificity": [
+            0.9785968568612936
+        ],
+        "iou": [
+            0.6596861481666565
+        ],
+        "dice_score": [
+            0.7177400588989258
+        ],
+        "dice_ce": [
+            1.4826666116714478
+        ]
+    },
+    "239_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/239_t2-0-16.nrrd"
+        ],
+        "sensitivity": [
+            0.9255404323458767
+        ],
+        "specificity": [
+            0.9806922826655853
+        ],
+        "iou": [
+            0.6700907349586487
+        ],
+        "dice_score": [
+            0.7373513579368591
+        ],
+        "dice_ce": [
+            1.4820462465286255
+        ]
+    },
+    "239_t2_SPACE.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/239_t2_SPACE-4-108.nrrd"
+        ],
+        "sensitivity": [
+            0.9392400958620235
+        ],
+        "specificity": [
+            0.9887276373713325
+        ],
+        "iou": [
+            0.6834529638290405
+        ],
+        "dice_score": [
+            0.5453384518623352
+        ],
+        "dice_ce": [
+            1.5631206035614014
+        ]
+    },
+    "242_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/242_t1-1-25.nrrd"
+        ],
+        "sensitivity": [
+            0.8507236901144828
+        ],
+        "specificity": [
+            0.9778344869927332
+        ],
+        "iou": [
+            0.5893862843513489
+        ],
+        "dice_score": [
+            0.5744571685791016
+        ],
+        "dice_ce": [
+            1.5003597736358643
+        ]
+    },
+    "242_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/242_t2-1-25.nrrd"
+        ],
+        "sensitivity": [
+            0.8499032088509416
+        ],
+        "specificity": [
+            0.9758721658654816
+        ],
+        "iou": [
+            0.5732282996177673
+        ],
+        "dice_score": [
+            0.5679593682289124
+        ],
+        "dice_ce": [
+            1.502361536026001
+        ]
+    },
+    "243_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/243_t1-0-23.nrrd"
+        ],
+        "sensitivity": [
+            0.8332673169282566
+        ],
+        "specificity": [
+            0.9893413900435245
+        ],
+        "iou": [
+            0.5933401584625244
+        ],
+        "dice_score": [
+            0.5594925880432129
+        ],
+        "dice_ce": [
+            1.578725814819336
+        ]
+    },
+    "243_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/243_t2-0-23.nrrd"
+        ],
+        "sensitivity": [
+            0.8098727533792147
+        ],
+        "specificity": [
+            0.9854033031641729
+        ],
+        "iou": [
+            0.5212306380271912
+        ],
+        "dice_score": [
+            0.5396707057952881
+        ],
+        "dice_ce": [
+            1.5828956365585327
+        ]
+    },
+    "244_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/244_t1-1-24.nrrd"
+        ],
+        "sensitivity": [
+            0.8020593769600669
+        ],
+        "specificity": [
+            0.9791209995615958
+        ],
+        "iou": [
+            0.5695462822914124
+        ],
+        "dice_score": [
+            0.520829439163208
+        ],
+        "dice_ce": [
+            1.502981185913086
+        ]
+    },
+    "244_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/244_t2-1-24.nrrd"
+        ],
+        "sensitivity": [
+            0.8060056449926825
+        ],
+        "specificity": [
+            0.9769677398659125
+        ],
+        "iou": [
+            0.5557337403297424
+        ],
+        "dice_score": [
+            0.5214950442314148
+        ],
+        "dice_ce": [
+            1.5044124126434326
+        ]
+    },
+    "245_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/245_t1-4-27.nrrd"
+        ],
+        "sensitivity": [
+            0.6748716598657365
+        ],
+        "specificity": [
+            0.9864073975863895
+        ],
+        "iou": [
+            0.4356137812137604
+        ],
+        "dice_score": [
+            0.4357636570930481
+        ],
+        "dice_ce": [
+            1.5908987522125244
+        ]
+    },
+    "245_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/245_t2-4-27.nrrd"
+        ],
+        "sensitivity": [
+            0.6914743045369155
+        ],
+        "specificity": [
+            0.9848331654720812
+        ],
+        "iou": [
+            0.43251508474349976
+        ],
+        "dice_score": [
+            0.4048996865749359
+        ],
+        "dice_ce": [
+            1.5893521308898926
+        ]
+    },
+    "246_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/246_t2-0-16.nrrd"
+        ],
+        "sensitivity": [
+            0.7851739319154214
+        ],
+        "specificity": [
+            0.9862865551671292
+        ],
+        "iou": [
+            0.5377999544143677
+        ],
+        "dice_score": [
+            0.5341691374778748
+        ],
+        "dice_ce": [
+            1.5665199756622314
+        ]
+    },
+    "249_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/249_t1-0-14.nrrd"
+        ],
+        "sensitivity": [
+            0.8538357590660375
+        ],
+        "specificity": [
+            0.9791139557670921
+        ],
+        "iou": [
+            0.5954425930976868
+        ],
+        "dice_score": [
+            0.6050440073013306
+        ],
+        "dice_ce": [
+            1.499995470046997
+        ]
+    },
+    "249_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/249_t2-0-14.nrrd"
+        ],
+        "sensitivity": [
+            0.8118794207555169
+        ],
+        "specificity": [
+            0.978496583434855
+        ],
+        "iou": [
+            0.5598534941673279
+        ],
+        "dice_score": [
+            0.5570531487464905
+        ],
+        "dice_ce": [
+            1.5055110454559326
+        ]
+    },
+    "250_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/250_t2-0-14.nrrd"
+        ],
+        "sensitivity": [
+            0.8342748534924238
+        ],
+        "specificity": [
+            0.981842189348236
+        ],
+        "iou": [
+            0.5741588473320007
+        ],
+        "dice_score": [
+            0.6180567145347595
+        ],
+        "dice_ce": [
+            1.5268113613128662
+        ]
+    },
+    "251_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/251_t1-0-25.nrrd"
+        ],
+        "sensitivity": [
+            0.7895883156815853
+        ],
+        "specificity": [
+            0.9803331362651776
+        ],
+        "iou": [
+            0.5900760293006897
+        ],
+        "dice_score": [
+            0.6213673949241638
+        ],
+        "dice_ce": [
+            1.4766240119934082
+        ]
+    },
+    "251_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/251_t2-0-25.nrrd"
+        ],
+        "sensitivity": [
+            0.7814208233686368
+        ],
+        "specificity": [
+            0.98131247391745
+        ],
+        "iou": [
+            0.5914137363433838
+        ],
+        "dice_score": [
+            0.6213855147361755
+        ],
+        "dice_ce": [
+            1.476592779159546
+        ]
+    },
+    "252_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/252_t1-1-25.nrrd"
+        ],
+        "sensitivity": [
+            0.8255657654084309
+        ],
+        "specificity": [
+            0.9871746664666272
+        ],
+        "iou": [
+            0.569273054599762
+        ],
+        "dice_score": [
+            0.5839996933937073
+        ],
+        "dice_ce": [
+            1.5715680122375488
+        ]
+    },
+    "252_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/252_t2-1-25.nrrd"
+        ],
+        "sensitivity": [
+            0.7493885106101672
+        ],
+        "specificity": [
+            0.9871859657668867
+        ],
+        "iou": [
+            0.5168860554695129
+        ],
+        "dice_score": [
+            0.5523156523704529
+        ],
+        "dice_ce": [
+            1.5752094984054565
+        ]
+    },
+    "253_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/253_t1-4-29.nrrd"
+        ],
+        "sensitivity": [
+            0.6705946092374374
+        ],
+        "specificity": [
+            0.9935746916821214
+        ],
+        "iou": [
+            0.45070549845695496
+        ],
+        "dice_score": [
+            0.5033904314041138
+        ],
+        "dice_ce": [
+            1.6317217350006104
+        ]
+    },
+    "253_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/253_t2-4-29.nrrd"
+        ],
+        "sensitivity": [
+            0.5417851821752675
+        ],
+        "specificity": [
+            0.9911225381097606
+        ],
+        "iou": [
+            0.3236333131790161
+        ],
+        "dice_score": [
+            0.4109577536582947
+        ],
+        "dice_ce": [
+            1.6367278099060059
+        ]
+    },
+    "254_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/254_t2-0-23.nrrd"
+        ],
+        "sensitivity": [
+            0.859716966979481
+        ],
+        "specificity": [
+            0.987769611553133
+        ],
+        "iou": [
+            0.6570653319358826
+        ],
+        "dice_score": [
+            0.6268401145935059
+        ],
+        "dice_ce": [
+            1.5265007019042969
+        ]
+    },
+    "255_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/255_t1-1-23.nrrd"
+        ],
+        "sensitivity": [
+            0.7840239722512982
+        ],
+        "specificity": [
+            0.9801625525759201
+        ],
+        "iou": [
+            0.49190038442611694
+        ],
+        "dice_score": [
+            0.5003646016120911
+        ],
+        "dice_ce": [
+            1.5599021911621094
+        ]
+    },
+    "255_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/255_t2-1-23.nrrd"
+        ],
+        "sensitivity": [
+            0.6547010652053445
+        ],
+        "specificity": [
+            0.9830872648866554
+        ],
+        "iou": [
+            0.434638649225235
+        ],
+        "dice_score": [
+            0.4842568635940552
+        ],
+        "dice_ce": [
+            1.564416527748108
+        ]
+    },
+    "256_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/256_t1-0-14.nrrd"
+        ],
+        "sensitivity": [
+            0.8518870846422725
+        ],
+        "specificity": [
+            0.9772807243895001
+        ],
+        "iou": [
+            0.5789742469787598
+        ],
+        "dice_score": [
+            0.5703384876251221
+        ],
+        "dice_ce": [
+            1.5058151483535767
+        ]
+    },
+    "256_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/256_t2-0-14.nrrd"
+        ],
+        "sensitivity": [
+            0.8182377049180328
+        ],
+        "specificity": [
+            0.9784425845472358
+        ],
+        "iou": [
+            0.5600717067718506
+        ],
+        "dice_score": [
+            0.5535163283348083
+        ],
+        "dice_ce": [
+            1.512372374534607
+        ]
+    },
+    "257_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/base_model/orig_shape_no_prompt/257_t1-2-25.nrrd"
+        ],
+        "sensitivity": [
+            0.7916666666666666
+        ],
+        "specificity": [
+            0.9846675202530386
+        ],
+        "iou": [
+            0.5214166045188904
+        ],
+        "dice_score": [
+            0.503870964050293
+        ],
+        "dice_ce": [
+            1.5692065954208374
+        ]
+    }
+}

@@ -1,0 +1,452 @@
+{
+    "7_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/decoder_only_resampled_30p_prompt/2024-08-15 12:15:20/epoch90/no_prompt_best_thresh/7_t1-0-16.nrrd"
+        ],
+        "sensitivity": 0.8474956089751152,
+        "specificity": 0.9909538312390122,
+        "iou": 0.7411056160926819,
+        "dice_score": 0.8009886145591736,
+        "dice_ce": 1.4367445707321167
+    },
+    "7_t2_SPACE.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/decoder_only_resampled_30p_prompt/2024-08-15 12:15:20/epoch90/no_prompt_best_thresh/7_t2_SPACE-2-116.nrrd"
+        ],
+        "sensitivity": 0.874444734775515,
+        "specificity": 0.9947498179977556,
+        "iou": 0.752849280834198,
+        "dice_score": 0.6919370293617249,
+        "dice_ce": 1.553513526916504
+    },
+    "7_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/decoder_only_resampled_30p_prompt/2024-08-15 12:15:20/epoch90/no_prompt_best_thresh/7_t2-0-16.nrrd"
+        ],
+        "sensitivity": 0.8708397619435303,
+        "specificity": 0.9877716796393395,
+        "iou": 0.7243370413780212,
+        "dice_score": 0.7925006747245789,
+        "dice_ce": 1.4439383745193481
+    },
+    "24_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/decoder_only_resampled_30p_prompt/2024-08-15 12:15:20/epoch90/no_prompt_best_thresh/24_t2-4-27.nrrd"
+        ],
+        "sensitivity": 0.8632443656184052,
+        "specificity": 0.9814358759951944,
+        "iou": 0.6062179803848267,
+        "dice_score": 0.6103264689445496,
+        "dice_ce": 1.5154701471328735
+    },
+    "28_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/decoder_only_resampled_30p_prompt/2024-08-15 12:15:20/epoch90/no_prompt_best_thresh/28_t2-1-25.nrrd"
+        ],
+        "sensitivity": 0.9039990846028949,
+        "specificity": 0.9890754384482157,
+        "iou": 0.7260571122169495,
+        "dice_score": 0.7866007685661316,
+        "dice_ce": 1.51163911819458
+    },
+    "39_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/decoder_only_resampled_30p_prompt/2024-08-15 12:15:20/epoch90/no_prompt_best_thresh/39_t2-1-24.nrrd"
+        ],
+        "sensitivity": 0.7972475230335138,
+        "specificity": 0.9925427921345623,
+        "iou": 0.6005893349647522,
+        "dice_score": 0.737815797328949,
+        "dice_ce": 1.5914359092712402
+    },
+    "45_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/decoder_only_resampled_30p_prompt/2024-08-15 12:15:20/epoch90/no_prompt_best_thresh/45_t2-0-16.nrrd"
+        ],
+        "sensitivity": 0.86498311787775,
+        "specificity": 0.9860496457424015,
+        "iou": 0.6671340465545654,
+        "dice_score": 0.7197492122650146,
+        "dice_ce": 1.4958529472351074
+    },
+    "50_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/decoder_only_resampled_30p_prompt/2024-08-15 12:15:20/epoch90/no_prompt_best_thresh/50_t1-1-27.nrrd"
+        ],
+        "sensitivity": 0.8121995513191407,
+        "specificity": 0.9888893085258749,
+        "iou": 0.6490247249603271,
+        "dice_score": 0.716338038444519,
+        "dice_ce": 1.506957769393921
+    },
+    "50_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/decoder_only_resampled_30p_prompt/2024-08-15 12:15:20/epoch90/no_prompt_best_thresh/50_t2-1-27.nrrd"
+        ],
+        "sensitivity": 0.8325600846761824,
+        "specificity": 0.9857048769748837,
+        "iou": 0.6325085759162903,
+        "dice_score": 0.70986008644104,
+        "dice_ce": 1.5045781135559082
+    },
+    "50_t2_SPACE.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/decoder_only_resampled_30p_prompt/2024-08-15 12:15:20/epoch90/no_prompt_best_thresh/50_t2_SPACE-4-119.nrrd"
+        ],
+        "sensitivity": 0.8602824221664055,
+        "specificity": 0.9909235310557867,
+        "iou": 0.6890214085578918,
+        "dice_score": 0.6955852508544922,
+        "dice_ce": 1.5345001220703125
+    },
+    "56_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/decoder_only_resampled_30p_prompt/2024-08-15 12:15:20/epoch90/no_prompt_best_thresh/56_t1-0-23.nrrd"
+        ],
+        "sensitivity": 0.900075083456075,
+        "specificity": 0.992554296689928,
+        "iou": 0.7630075216293335,
+        "dice_score": 0.7736594080924988,
+        "dice_ce": 1.5184839963912964
+    },
+    "57_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/decoder_only_resampled_30p_prompt/2024-08-15 12:15:20/epoch90/no_prompt_best_thresh/57_t1-0-18.nrrd"
+        ],
+        "sensitivity": 0.9134762533724841,
+        "specificity": 0.9852575143459144,
+        "iou": 0.7454714179039001,
+        "dice_score": 0.7724540829658508,
+        "dice_ce": 1.433628797531128
+    },
+    "62_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/decoder_only_resampled_30p_prompt/2024-08-15 12:15:20/epoch90/no_prompt_best_thresh/62_t2-0-14.nrrd"
+        ],
+        "sensitivity": 0.8714307135173097,
+        "specificity": 0.9848305720991194,
+        "iou": 0.6681393384933472,
+        "dice_score": 0.75441974401474,
+        "dice_ce": 1.4905306100845337
+    },
+    "67_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/decoder_only_resampled_30p_prompt/2024-08-15 12:15:20/epoch90/no_prompt_best_thresh/67_t2-4-20.nrrd"
+        ],
+        "sensitivity": 0.7730911931047761,
+        "specificity": 0.9902111262064612,
+        "iou": 0.5972371697425842,
+        "dice_score": 0.6003981232643127,
+        "dice_ce": 1.5503554344177246
+    },
+    "69_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/decoder_only_resampled_30p_prompt/2024-08-15 12:15:20/epoch90/no_prompt_best_thresh/69_t1-0-16.nrrd"
+        ],
+        "sensitivity": 0.8420773413508768,
+        "specificity": 0.9912996203821126,
+        "iou": 0.7166884541511536,
+        "dice_score": 0.7814826965332031,
+        "dice_ce": 1.4813505411148071
+    },
+    "69_t2_SPACE.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/decoder_only_resampled_30p_prompt/2024-08-15 12:15:20/epoch90/no_prompt_best_thresh/69_t2_SPACE-7-114.nrrd"
+        ],
+        "sensitivity": 0.8344750878392554,
+        "specificity": 0.9950893105658608,
+        "iou": 0.7127311825752258,
+        "dice_score": 0.65604168176651,
+        "dice_ce": 1.5677337646484375
+    },
+    "69_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/decoder_only_resampled_30p_prompt/2024-08-15 12:15:20/epoch90/no_prompt_best_thresh/69_t2-0-16.nrrd"
+        ],
+        "sensitivity": 0.8621610867795494,
+        "specificity": 0.9886642552328171,
+        "iou": 0.7021138668060303,
+        "dice_score": 0.782129168510437,
+        "dice_ce": 1.4818345308303833
+    },
+    "71_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/decoder_only_resampled_30p_prompt/2024-08-15 12:15:20/epoch90/no_prompt_best_thresh/71_t2-0-13.nrrd"
+        ],
+        "sensitivity": 0.8633841725082204,
+        "specificity": 0.9853012315482192,
+        "iou": 0.6649740934371948,
+        "dice_score": 0.6635721325874329,
+        "dice_ce": 1.4947984218597412
+    },
+    "81_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/decoder_only_resampled_30p_prompt/2024-08-15 12:15:20/epoch90/no_prompt_best_thresh/81_t2-1-19.nrrd"
+        ],
+        "sensitivity": 0.8326219166540887,
+        "specificity": 0.9904163430447691,
+        "iou": 0.6848319172859192,
+        "dice_score": 0.6930175423622131,
+        "dice_ce": 1.5049452781677246
+    },
+    "83_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/decoder_only_resampled_30p_prompt/2024-08-15 12:15:20/epoch90/no_prompt_best_thresh/83_t1-4-27.nrrd"
+        ],
+        "sensitivity": 0.8664443517988087,
+        "specificity": 0.9880348128640052,
+        "iou": 0.6655609011650085,
+        "dice_score": 0.7398337125778198,
+        "dice_ce": 1.5265380144119263
+    },
+    "109_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/decoder_only_resampled_30p_prompt/2024-08-15 12:15:20/epoch90/no_prompt_best_thresh/109_t1-3-27.nrrd"
+        ],
+        "sensitivity": 0.8740476720743441,
+        "specificity": 0.9909271736045352,
+        "iou": 0.7213472127914429,
+        "dice_score": 0.7029749155044556,
+        "dice_ce": 1.5146944522857666
+    },
+    "117_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/decoder_only_resampled_30p_prompt/2024-08-15 12:15:20/epoch90/no_prompt_best_thresh/117_t1-3-23.nrrd"
+        ],
+        "sensitivity": 0.830982532732948,
+        "specificity": 0.9909985749239427,
+        "iou": 0.6587337255477905,
+        "dice_score": 0.6321880221366882,
+        "dice_ce": 1.5434463024139404
+    },
+    "118_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/decoder_only_resampled_30p_prompt/2024-08-15 12:15:20/epoch90/no_prompt_best_thresh/118_t1-0-19.nrrd"
+        ],
+        "sensitivity": 0.8964516362978528,
+        "specificity": 0.9849059642531415,
+        "iou": 0.7047427892684937,
+        "dice_score": 0.6932452917098999,
+        "dice_ce": 1.4684984683990479
+    },
+    "131_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/decoder_only_resampled_30p_prompt/2024-08-15 12:15:20/epoch90/no_prompt_best_thresh/131_t1-0-23.nrrd"
+        ],
+        "sensitivity": 0.8431925644653044,
+        "specificity": 0.989818763220617,
+        "iou": 0.6413125395774841,
+        "dice_score": 0.7107390761375427,
+        "dice_ce": 1.5563806295394897
+    },
+    "140_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/decoder_only_resampled_30p_prompt/2024-08-15 12:15:20/epoch90/no_prompt_best_thresh/140_t1-2-25.nrrd"
+        ],
+        "sensitivity": 0.8109883201401087,
+        "specificity": 0.9892562770338694,
+        "iou": 0.6391681432723999,
+        "dice_score": 0.6807713508605957,
+        "dice_ce": 1.528607726097107
+    },
+    "140_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/decoder_only_resampled_30p_prompt/2024-08-15 12:15:20/epoch90/no_prompt_best_thresh/140_t2-2-25.nrrd"
+        ],
+        "sensitivity": 0.8205009429768636,
+        "specificity": 0.9847363625657822,
+        "iou": 0.593743622303009,
+        "dice_score": 0.6486783027648926,
+        "dice_ce": 1.5313501358032227
+    },
+    "145_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/decoder_only_resampled_30p_prompt/2024-08-15 12:15:20/epoch90/no_prompt_best_thresh/145_t1-2-25.nrrd"
+        ],
+        "sensitivity": 0.7990471356636645,
+        "specificity": 0.9899363996858085,
+        "iou": 0.6397048234939575,
+        "dice_score": 0.5620124936103821,
+        "dice_ce": 1.5288660526275635
+    },
+    "146_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/decoder_only_resampled_30p_prompt/2024-08-15 12:15:20/epoch90/no_prompt_best_thresh/146_t1-2-25.nrrd"
+        ],
+        "sensitivity": 0.8590332816224046,
+        "specificity": 0.9877338054080217,
+        "iou": 0.6805546283721924,
+        "dice_score": 0.6703794002532959,
+        "dice_ce": 1.5004619359970093
+    },
+    "166_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/decoder_only_resampled_30p_prompt/2024-08-15 12:15:20/epoch90/no_prompt_best_thresh/166_t1-0-16.nrrd"
+        ],
+        "sensitivity": 0.8658804923181964,
+        "specificity": 0.9852671553298622,
+        "iou": 0.6831775903701782,
+        "dice_score": 0.762934148311615,
+        "dice_ce": 1.46488356590271
+    },
+    "186_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/decoder_only_resampled_30p_prompt/2024-08-15 12:15:20/epoch90/no_prompt_best_thresh/186_t2-6-33.nrrd"
+        ],
+        "sensitivity": 0.9032193427580948,
+        "specificity": 0.9858313804131631,
+        "iou": 0.6360846161842346,
+        "dice_score": 0.7534891366958618,
+        "dice_ce": 1.5437533855438232
+    },
+    "191_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/decoder_only_resampled_30p_prompt/2024-08-15 12:15:20/epoch90/no_prompt_best_thresh/191_t1-0-17.nrrd"
+        ],
+        "sensitivity": 0.8567357837800545,
+        "specificity": 0.9853912758733733,
+        "iou": 0.6619632244110107,
+        "dice_score": 0.721405029296875,
+        "dice_ce": 1.488457202911377
+    },
+    "192_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/decoder_only_resampled_30p_prompt/2024-08-15 12:15:20/epoch90/no_prompt_best_thresh/192_t1-0-23.nrrd"
+        ],
+        "sensitivity": 0.8909222410830249,
+        "specificity": 0.9899234246341609,
+        "iou": 0.7090478539466858,
+        "dice_score": 0.7648066282272339,
+        "dice_ce": 1.5276840925216675
+    },
+    "193_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/decoder_only_resampled_30p_prompt/2024-08-15 12:15:20/epoch90/no_prompt_best_thresh/193_t2-5-27.nrrd"
+        ],
+        "sensitivity": 0.8313241392412161,
+        "specificity": 0.9921267631377574,
+        "iou": 0.6503574252128601,
+        "dice_score": 0.6562366485595703,
+        "dice_ce": 1.568108320236206
+    },
+    "204_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/decoder_only_resampled_30p_prompt/2024-08-15 12:15:20/epoch90/no_prompt_best_thresh/204_t1-0-23.nrrd"
+        ],
+        "sensitivity": 0.8117064733225683,
+        "specificity": 0.9920152411752827,
+        "iou": 0.6636427640914917,
+        "dice_score": 0.7126979827880859,
+        "dice_ce": 1.5366861820220947
+    },
+    "204_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/decoder_only_resampled_30p_prompt/2024-08-15 12:15:20/epoch90/no_prompt_best_thresh/204_t2-0-23.nrrd"
+        ],
+        "sensitivity": 0.8352224634594041,
+        "specificity": 0.9921950217244758,
+        "iou": 0.685685396194458,
+        "dice_score": 0.7501339912414551,
+        "dice_ce": 1.5351977348327637
+    },
+    "208_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/decoder_only_resampled_30p_prompt/2024-08-15 12:15:20/epoch90/no_prompt_best_thresh/208_t2-0-15.nrrd"
+        ],
+        "sensitivity": 0.892392476317422,
+        "specificity": 0.981245300895592,
+        "iou": 0.6144049763679504,
+        "dice_score": 0.5200415849685669,
+        "dice_ce": 1.5259006023406982
+    },
+    "222_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/decoder_only_resampled_30p_prompt/2024-08-15 12:15:20/epoch90/no_prompt_best_thresh/222_t2-0-14.nrrd"
+        ],
+        "sensitivity": 0.8961535004741585,
+        "specificity": 0.9891319635334871,
+        "iou": 0.7290707230567932,
+        "dice_score": 0.7877599596977234,
+        "dice_ce": 1.4944274425506592
+    },
+    "224_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/decoder_only_resampled_30p_prompt/2024-08-15 12:15:20/epoch90/no_prompt_best_thresh/224_t1-0-15.nrrd"
+        ],
+        "sensitivity": 0.8683547242253117,
+        "specificity": 0.9863448247938454,
+        "iou": 0.7095703482627869,
+        "dice_score": 0.6685769557952881,
+        "dice_ce": 1.4565330743789673
+    },
+    "226_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/decoder_only_resampled_30p_prompt/2024-08-15 12:15:20/epoch90/no_prompt_best_thresh/226_t1-0-14.nrrd"
+        ],
+        "sensitivity": 0.8344268194547954,
+        "specificity": 0.9941251450750234,
+        "iou": 0.7230724692344666,
+        "dice_score": 0.6292352080345154,
+        "dice_ce": 1.5322365760803223
+    },
+    "226_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/decoder_only_resampled_30p_prompt/2024-08-15 12:15:20/epoch90/no_prompt_best_thresh/226_t2-0-14.nrrd"
+        ],
+        "sensitivity": 0.8450493328472674,
+        "specificity": 0.9936498100219918,
+        "iou": 0.7281356453895569,
+        "dice_score": 0.6652371883392334,
+        "dice_ce": 1.5276660919189453
+    },
+    "236_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/decoder_only_resampled_30p_prompt/2024-08-15 12:15:20/epoch90/no_prompt_best_thresh/236_t2-3-25.nrrd"
+        ],
+        "sensitivity": 0.8616149401994176,
+        "specificity": 0.9886846239876609,
+        "iou": 0.6930059194564819,
+        "dice_score": 0.7350891828536987,
+        "dice_ce": 1.502929925918579
+    },
+    "241_t1.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/decoder_only_resampled_30p_prompt/2024-08-15 12:15:20/epoch90/no_prompt_best_thresh/241_t1-0-18.nrrd"
+        ],
+        "sensitivity": 0.889510986972526,
+        "specificity": 0.9805931191600782,
+        "iou": 0.6847971677780151,
+        "dice_score": 0.7623823881149292,
+        "dice_ce": 1.4335241317749023
+    },
+    "241_t2_SPACE.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/decoder_only_resampled_30p_prompt/2024-08-15 12:15:20/epoch90/no_prompt_best_thresh/241_t2_SPACE-11-119.nrrd"
+        ],
+        "sensitivity": 0.9047342076150202,
+        "specificity": 0.975984751166341,
+        "iou": 0.5788699388504028,
+        "dice_score": 0.5722823739051819,
+        "dice_ce": 1.5237836837768555
+    },
+    "241_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/decoder_only_resampled_30p_prompt/2024-08-15 12:15:20/epoch90/no_prompt_best_thresh/241_t2-0-18.nrrd"
+        ],
+        "sensitivity": 0.8898420547902075,
+        "specificity": 0.9772633706021899,
+        "iou": 0.6668368577957153,
+        "dice_score": 0.7549517750740051,
+        "dice_ce": 1.42616868019104
+    },
+    "257_t2.nii.gz": {
+        "prediction_path": [
+            "/data/sab_data/predicted_masks/decoder_only_resampled_30p_prompt/2024-08-15 12:15:20/epoch90/no_prompt_best_thresh/257_t2-2-25.nrrd"
+        ],
+        "sensitivity": 0.8730830641106331,
+        "specificity": 0.9900349044958533,
+        "iou": 0.6815460920333862,
+        "dice_score": 0.6524612307548523,
+        "dice_ce": 1.5414190292358398
+    }
+}
